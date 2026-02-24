@@ -280,6 +280,7 @@
   <ol>
     <li><a href="#服务器目前正在运行香草纪元食旅纪行---vanillaerafareschron">服务器目前正在运行『香草纪元:食旅纪行 - VanillaEra:FaresChron』</a>
       <ol>
+        <li><a href="#服务器状态">服务器状态</a></li>
         <li><a href="#整合包介绍">整合包介绍</a></li>
       </ol>
     </li>
@@ -397,11 +398,68 @@
     
     
     <h2 id="服务器目前正在运行香草纪元食旅纪行---vanillaerafareschron">服务器目前正在运行『香草纪元:食旅纪行 - VanillaEra:FaresChron』
-</h2><h3 id="整合包介绍">整合包介绍
-</h3><div class="video-wrapper" style="width:108%;aspect-ratio:16/9;">
+</h2><h3 id="服务器状态">服务器状态
+</h3><!-- 放在你想显示的地方 -->
+<div id="mc-status" style="font-family: system-ui; background:#1e1e1e; color:white; padding:16px; border-radius:12px; max-width:380px;">
+  <div style="display:flex; align-items:center; gap:12px;">
+    <img id="icon" src="https://placehold.co/64x64?text=?" width="64" height="64" style="border-radius:8px;">
+    <div>
+      <div id="motd" style="font-size:1.2em; margin-bottom:4px;">加载中喵...</div>
+      <div id="players"></div>
+      <div id="version"></div>
+    </div>
+  </div>
+</div>
+<script>
+const server = "117.72.206.53";          // ← 改成你的服务器地址
+const port = 25565;                         // 非默认端口才需要填
+const apiUrl = `https://api.mcsrvstat.us/2/${server}${port !== 25565 ? ':'+port : ''}`;
+
+fetch(apiUrl)
+  .then(r => r.json())
+  .then(data => {
+    if (!data.online) {
+      document.getElementById("motd").innerHTML = "服务器当前离线呜呜～";
+      document.getElementById("icon").src = "https://placehold.co/64x64/ff0000/ffffff?text=Offline";
+      return;
+    }
+
+    document.getElementById("icon").src = data.icon || "https://zh.minecraft.wiki/images/archive/20201112041753%21Grass_Block_JE7_BE6.png";
+    document.getElementById("motd").innerHTML = "<span style='color:#98fb98; font-size:0.9em;'>服务器正常运行中～✨<br></span>";
+    document.getElementById("motd").innerHTML += data.motd?.html || data.motd?.clean || "欢迎来到我的小世界！";
+    document.getElementById("players").innerHTML = `在线玩家：${data.players.online} / ${data.players.max}`;
+    document.getElementById("version").innerHTML = `版本：${data.version}`;
+  })
+  .catch(() => {
+    document.getElementById("motd").innerHTML = "哎呀～连接API失败了呢...";
+  });
+</script>
+<h3 id="整合包介绍">整合包介绍
+</h3>
+
+
+
+
+
+    
+
+
+<div class="video-wrapper">
+    <iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;high_quality=1&amp;page=1&bvid=BV14dKTegEKo"
+            scrolling="no"
+            frameborder="no"
+            framespacing="0"
+            allowfullscreen="true"
+    >
+    </iframe>
+</div>
+
+<!--
+<div class="video-wrapper" style="width:108%;aspect-ratio:16/9;">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114002893998928&bvid=BV14dKTegEKo&cid=28391836751&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:100%;height:100%;border:0;" allowfullscreen></iframe>
 </div>
-<!--
+
+
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114002893998928&bvid=BV14dKTegEKo&cid=28391836751&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>-->
 <h2 id="进群获取地址与客户端766624678">进群获取地址与客户端：<a class="link" href="https://qm.qq.com/q/7jhmTd2lck"  target="_blank" rel="noopener"
     >766624678</a>
