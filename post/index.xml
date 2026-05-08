@@ -7,7 +7,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://2661540950.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://2661540950.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>折腾 DDSP6.3 AI 翻唱记录</title>
+        <link>https://2661540950.github.io/p/%E6%8A%98%E8%85%BE-ddsp6.3-ai-%E7%BF%BB%E5%94%B1%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://2661540950.github.io/p/%E6%8A%98%E8%85%BE-ddsp6.3-ai-%E7%BF%BB%E5%94%B1%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;p&gt;我也不知道怎么想的，突然开始玩上 AI 翻唱了。&lt;/p&gt;
+&lt;h2 id=&#34;训练阶段&#34;&gt;训练阶段
+&lt;/h2&gt;&lt;p&gt;DDSP6.3 的训练意外的很友好，不怎么吃配置。步数也不需要很多，我拿 3070 16G 跑了一会儿就训练出一个模型了，效果还挺不错。&lt;/p&gt;
+&lt;p&gt;当时心里还挺美的，觉得这也太简单了吧？&lt;/p&gt;
+&lt;h2 id=&#34;推理翻车&#34;&gt;推理翻车
+&lt;/h2&gt;&lt;p&gt;结果到了推理阶段就开始出问题了。&lt;/p&gt;
+&lt;p&gt;整合包自带的人声分离和和声分离效果不太行，高音部分经常出现哑音，听着非常难受。&lt;/p&gt;
+&lt;p&gt;于是换成了 &lt;strong&gt;BS-RoFormer&lt;/strong&gt; 做人声和和声分离，效果确实好了一些，但还是不够理想。&lt;/p&gt;
+&lt;h2 id=&#34;后期救场&#34;&gt;后期救场
+&lt;/h2&gt;&lt;p&gt;没办法，AU 卸了还没装回来，就开了 PR 手动处理了一下推理源，总算是得到了效果还行的素材。&lt;/p&gt;
+&lt;p&gt;不过目前训练出的模型会有一些高频齿音，不太确定换个模型能不能改善这个问题，以后有空再试试吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;折腾了一圈下来，感觉 AI 翻唱这东西，训练其实是最简单的一步，反而是前期的音频处理和后期修音更花时间。有空再接着玩吧~&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>我为什么开始做自己的 AI 助手</title>
         <link>https://2661540950.github.io/p/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BC%80%E5%A7%8B%E5%81%9A%E8%87%AA%E5%B7%B1%E7%9A%84-ai-%E5%8A%A9%E6%89%8B/</link>
         <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
