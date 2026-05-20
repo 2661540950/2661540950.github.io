@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 266的小网站</title>
-        <link>https://2661540950.github.io/page/</link>
+        <link>https://266nya.cn/page/</link>
         <description>Recent content in Pages on 266的小网站</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://2661540950.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://266nya.cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>https://2661540950.github.io/archives/</link>
+        <link>https://266nya.cn/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://2661540950.github.io/archives/</guid>
+        <guid>https://266nya.cn/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://2661540950.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://266nya.cn/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://2661540950.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://266nya.cn/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://2661540950.github.io/search/</link>
+        <link>https://266nya.cn/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://2661540950.github.io/search/</guid>
+        <guid>https://266nya.cn/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友情链接</title>
-        <link>https://2661540950.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <link>https://266nya.cn/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://2661540950.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://266nya.cn/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
         <description></description>
         </item>
         

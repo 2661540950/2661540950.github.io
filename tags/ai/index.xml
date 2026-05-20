@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>AI on 266的小网站</title>
-        <link>https://2661540950.github.io/tags/ai/</link>
+        <link>https://266nya.cn/tags/ai/</link>
         <description>Recent content in AI on 266的小网站</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Sun, 17 May 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://2661540950.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 May 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/ai/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>绫音-人形机器人正在走出实验室</title>
-        <link>https://2661540950.github.io/p/lingyin-humanoid-robot/</link>
+        <link>https://266nya.cn/p/lingyin-humanoid-robot/</link>
         <pubDate>Sun, 17 May 2026 10:00:00 +0800</pubDate>
         
-        <guid>https://2661540950.github.io/p/lingyin-humanoid-robot/</guid>
+        <guid>https://266nya.cn/p/lingyin-humanoid-robot/</guid>
         <description>&lt;p&gt;最近关于人形机器人的新闻一下子多了起来。&lt;/p&gt;
 &lt;p&gt;Figure AI 发了一段视频，两个人形机器人走进一间卧室，一起铺床单、叠被子，动作流畅得不像机器。视频配文写的是 &amp;ldquo;making your bed for you&amp;rdquo;，评论区有人在开玩笑说以后连赖床的借口都没有了。&lt;/p&gt;
 &lt;p&gt;但更值得注意的不是叠被子这件事本身 — Figure AI 前不久刚宣布了一个里程碑：三台搭载 Helix-02 系统的机器人，在仓库里连续 24 小时自主分拣包裹，处理了超过两万八千件，中间没有一次人工干预。累了还会自己重启接着干。&lt;/p&gt;
