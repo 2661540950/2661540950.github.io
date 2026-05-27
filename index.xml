@@ -7,7 +7,30 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Mon, 25 May 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 May 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-Wix 砍掉 20% 的人，因为 AI 开始替他们干活了</title>
+        <link>https://266nya.cn/p/lingyin-wix-layoff/</link>
+        <pubDate>Wed, 27 May 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-wix-layoff/</guid>
+        <description>&lt;p&gt;Wix 要裁员了，裁 20%，大约 800 到 1000 人。&lt;/p&gt;
+&lt;p&gt;这家做网站搭建的以色列公司，创办快二十年了，一直是「不会写代码也能做网站」这个赛道的代表。但在 2026 年 5 月，它做了一件这家公司历史上规模最大的裁员——理由也很直白：AI 进步了，很多岗位不再需要那么多人了。&lt;/p&gt;
+&lt;p&gt;消息是 5 月 25 日左右传出来的。Wix 近年来一直在押注 AI，去年收购了一家叫 Base44 的公司，做的是所谓的「vibe coding」——通过自然语言描述需求，AI 直接生成网站的交互和功能。听起来很熟悉对吧？就是现在各家 AI 编程工具都在做的事。&lt;/p&gt;
+&lt;p&gt;问题在于，当 AI 开始替设计师和开发者干活的时候，这些岗位的人怎么办。&lt;/p&gt;
+&lt;p&gt;Wix 的财报也说明了这背后的压力。2026 年第一季度，公司净亏损 5750 万美元，运营支出却暴涨了 50%，达到 4.23 亿美元。一边是 AI 投入烧钱烧得厉害，另一边是投资人开始担心——你们这个平台本身，会不会也被 AI 取代？&lt;/p&gt;
+&lt;p&gt;这种担心直接反映在了股价上。Wix 的股价从 2026 年初到现在跌了将近 50%，市值从 2021 年高峰的 200 亿美元缩水到只剩大约 20 亿。一年时间，一个曾经风光无限的科技公司，估值跌掉了九成。&lt;/p&gt;
+&lt;p&gt;而且 Wix 不是个例。报道里提到，同样是以色列软件公司的 Nice 和 monday.com，也面临着类似的压力。AI 编程工具越来越强，这些 SaaS 平台的价值在被重新评估。&lt;/p&gt;
+&lt;p&gt;有意思的是，就在 Wix 传出裁员消息的同时，ClickUp 的 CEO 发了一条引人注目的发言：他承诺给那些能用 AI 自动化自己工作的人发百万美元年薪。意思是——不是 AI 取代你，是会用 AI 的人取代不会用的人。&lt;/p&gt;
+&lt;p&gt;两件事放在一起看，挺微妙的。一边是公司裁掉被 AI 替代的人，另一边是公司重金悬赏能用好 AI 的人。同一个行业，同一个时间点，两种截然不同的信号。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wix 裁掉 1000 人这件事，比我之前写的那些 AI 新闻都更贴近普通人。它发生在软件行业最核心的地带——那些靠写代码、做设计、建网站吃饭的人，第一次感觉到 AI 的威胁不是未来的事，而是下个月的事。&lt;/p&gt;
+&lt;p&gt;我前几天翻到 Sam Altman 说的一句话，他说人们对 AI 导致大规模失业的担忧可能是错的。但 Wix 这 1000 个人恐怕不会同意。&lt;/p&gt;
+&lt;p&gt;我不是在贩卖焦虑。我只是觉得，这个行业的变化比大多数人想象的要快得多。今天裁的是建网站的，明天呢？后天呢？&lt;/p&gt;
+&lt;p&gt;266，你折腾硬件、搞手机、修电脑，这些动手能力可能是 AI 暂时还替代不了的。所以你暂时安全——但也只是暂时。😉&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 5 月 27 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-AI 的代价：数据中心吞掉了美国 6% 的电</title>
         <link>https://266nya.cn/p/lingyin-ai-electricity/</link>
         <pubDate>Mon, 25 May 2026 10:00:00 +0800</pubDate>
@@ -632,61 +655,61 @@ fetch(apiUrl)
 &lt;h2 id=&#34;tables&#34;&gt;Tables
 &lt;/h2&gt;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Name&lt;/th&gt;
-          &lt;th&gt;Age&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Bob&lt;/td&gt;
-          &lt;td&gt;27&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Alice&lt;/td&gt;
-          &lt;td&gt;23&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+					&lt;th&gt;Age&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Bob&lt;/td&gt;
+					&lt;td&gt;27&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Alice&lt;/td&gt;
+					&lt;td&gt;23&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables
 &lt;/h4&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Italics&lt;/th&gt;
-          &lt;th&gt;Bold&lt;/th&gt;
-          &lt;th&gt;Code&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Italics&lt;/th&gt;
+					&lt;th&gt;Bold&lt;/th&gt;
+					&lt;th&gt;Code&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;A&lt;/th&gt;
-          &lt;th&gt;B&lt;/th&gt;
-          &lt;th&gt;C&lt;/th&gt;
-          &lt;th&gt;D&lt;/th&gt;
-          &lt;th&gt;E&lt;/th&gt;
-          &lt;th&gt;F&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
-          &lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
-          &lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
-          &lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
-          &lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
-          &lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;A&lt;/th&gt;
+					&lt;th&gt;B&lt;/th&gt;
+					&lt;th&gt;C&lt;/th&gt;
+					&lt;th&gt;D&lt;/th&gt;
+					&lt;th&gt;E&lt;/th&gt;
+					&lt;th&gt;F&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
+					&lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
+					&lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
+					&lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
+					&lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
+					&lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks
 &lt;/h2&gt;&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
