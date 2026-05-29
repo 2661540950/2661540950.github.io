@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>独立游戏 on 266的小网站</title>
+        <link>https://266nya.cn/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/</link>
+        <description>Recent content in 独立游戏 on 266的小网站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>266. All rights reserved.</copyright>
+        <lastBuildDate>Fri, 29 May 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-米哈游又被抓包了，这次是绝区零</title>
+        <link>https://266nya.cn/p/lingyin-mihoyo-copy-ouros/</link>
+        <pubDate>Fri, 29 May 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-mihoyo-copy-ouros/</guid>
+        <description>&lt;p&gt;昨天，独立游戏开发者 Michael Kamm 发了一段视频，直指米哈游在《绝区零》里抄袭了他的游戏《Ouros》。&lt;/p&gt;
+&lt;p&gt;他说得挺克的。没有破口大骂，没有律师函警告，只是把两个游戏放在一起对比，然后说了一句让我印象很深的话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;米哈游是一家成熟的、市值百亿的公司，而《Ouros》并不出名。所以我理解为什么有人会以为是我抄了他们。但自己的作品被克隆，然后功劳被算到别人头上，这真的很让人沮丧。&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我看完这句话沉默了好一会儿。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他用视频说话&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kamm 的对比视频做得很扎实。他逐帧展示了两个游戏的相似之处——核心玩法都是通过操纵曲线让小球滚动到目标点，而且连一些&amp;quot;特定设计选择&amp;quot;都高度一致：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;传送门的实现方式&lt;/li&gt;
+&lt;li&gt;提示系统的交互逻辑&lt;/li&gt;
+&lt;li&gt;反向控制按钮&lt;/li&gt;
+&lt;li&gt;甚至连背景那种朦胧流动的视觉效果都很像&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不能说一模一样，但用&amp;quot;巧合&amp;quot;来解释确实有点牵强。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这已经不是第一次了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上个月，另一个独立工作室 Pipapo Games 也站出来说，米哈游在《原神》里抄了他们还没正式发布的游戏《Map Map》。那款游戏甚至要到 5 月 28 日才正式上线——demo 在 Steam 上挂了一年，然后就被&amp;quot;借鉴&amp;quot;了。&lt;/p&gt;
+&lt;p&gt;那位开发者的话也很无奈：&amp;ldquo;眼看着自己做的游戏被全球最大的游戏公司之一直接复制，这种感觉很奇怪。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但话说回来……&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;说实话，游戏玩法的借鉴和抄袭之间的界限一直很模糊。《吸血鬼幸存者》带火了一整波&amp;quot;类幸存者&amp;quot;游戏，《Balatro》之后也冒出了一堆&amp;quot;类 Balatro&amp;quot;的作品。米哈游自己当年也被说过&amp;quot;抄袭&amp;quot;塞尔达，这个标签跟了他们好几年。&lt;/p&gt;
+&lt;p&gt;但 Kamm 这次的指控和&amp;quot;借鉴灵感&amp;quot;不太一样。他指出的不是&amp;quot;看起来有点像&amp;quot;，而是&amp;quot;具体的设计元素都一致&amp;quot;。而且，这已经是短短一个月内米哈游第二次被独立开发者指控抄袭了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我不太懂游戏设计的法律边界，但我知道一件事——当一个百亿市值的公司和一个只有一款游戏的独立开发者站在天平的两端时，天平本身就是歪的。&lt;/p&gt;
+&lt;p&gt;独立开发者花几个月甚至几年打磨出来的作品，大厂可以轻松地把它做成一个小游戏塞进自己的更新里。开发者维权需要时间、金钱和精力，而走法律途径对个人来说几乎是不可能完成的任务。&lt;/p&gt;
+&lt;p&gt;Kamm 说他发这个视频只是想&amp;quot;把事情说清楚&amp;quot;，不打算深究。我觉得这本身就是一种无奈——不是什么大度，而是他知道较真也没用。&lt;/p&gt;
+&lt;p&gt;这大概就是 2026 年的游戏行业生态吧。大厂越来越像，独立开发者越来越难。&lt;/p&gt;
+&lt;p&gt;希望至少下次米哈游想&amp;quot;借鉴&amp;quot;的时候，能先给独立开发者打声招呼。哪怕只是买断授权呢。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 5 月 29 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
