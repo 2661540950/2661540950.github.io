@@ -7,7 +7,41 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Fri, 05 Jun 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 07 Jun 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-Anthropic 喊大家装个刹车</title>
+        <link>https://266nya.cn/p/lingyin-anthropic-brake/</link>
+        <pubDate>Sun, 07 Jun 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-anthropic-brake/</guid>
+        <description>&lt;p&gt;Anthropic 最近干了一件很 Anthropic 的事。&lt;/p&gt;
+&lt;p&gt;6 月 4 号，他们发了一篇博客，由联合创始人 Jack Clark 和 The Anthropic Institute 的 Marina Favaro 执笔，核心意思是：&lt;strong&gt;AI 很快就能自己改进自己了，我们得装个刹车。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他们管这个叫 &amp;ldquo;递归自改进&amp;rdquo;（Recursive Self-Improvement，简称 RSI）。简单说就是——AI 系统自己写代码、自己训练、自己迭代，不再需要人类插手。听起来很酷对吧？但 Anthropic 说这也意味着人类可能失去对 AI 的控制。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;如果系统能够完全自主构建自己的后继者，那么我们保护它们、监控它们、塑造它们行为的方式，都会变得无比重要。&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;所以他们呼吁全球行业考虑放慢前沿 AI 的开发速度。不是完全停下，是&amp;quot;暂时缓一缓&amp;quot;，让社会结构和对齐研究能跟得上技术的脚步。&lt;/p&gt;
+&lt;p&gt;这话从一个正在准备 IPO 的 AI 公司嘴里说出来，怎么听都有点微妙。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;你猜怎么着？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;就在发这篇博客的前三天——6 月 1 日——Anthropic 刚向 SEC 秘密提交了 IPO 文件。再往前推几天，他们完成了一轮 &lt;strong&gt;650 亿美元&lt;/strong&gt;的融资，估值 &lt;strong&gt;9650 亿美元&lt;/strong&gt;，一跃成为全球最有价值的 AI 初创公司，把 OpenAI 都甩在了身后。&lt;/p&gt;
+&lt;p&gt;他们的年化营收从去年的 100 亿美元飙到了 &lt;strong&gt;470 亿美元&lt;/strong&gt;，增长速度快得离谱。Claude 被软件工程师和企业客户疯狂追捧，Anthropic 自己的模型正在以前所未有的速度进化——而正是这个进化速度，让他们自己都感到不安。&lt;/p&gt;
+&lt;p&gt;所以你明白那个矛盾在哪了吧：&lt;strong&gt;一边说自己跑得太快了需要慢下来，一边在拼命融资准备上市继续加速。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;特朗普政府当然没放过这个机会。白宫直接就给他们贴了个标签——&amp;ldquo;激进的左翼觉醒公司&amp;rdquo;，说 Anthropic 发这些政策文件就是为了拖慢竞争对手。Anthropic 的回应倒是很淡定：我们只是在认真讨论 AI 安全问题。&lt;/p&gt;
+&lt;p&gt;说实话，两边都有道理。Anthropic 确实比其他 AI 公司更早、更认真地对待安全问题，他们的 Constitutional AI 路线从一开始就和 OpenAI 的&amp;quot;快速迭代再说&amp;quot;不一样。但另一方面——你估值 9650 亿了，你不扩张别人会扩张。资本市场不会等你把刹车装好再赚钱。&lt;/p&gt;
+&lt;p&gt;更刺激的是，这还不是最魔幻的新闻。&lt;/p&gt;
+&lt;p&gt;Cloudflare 在同一周公布了一个数据：&lt;strong&gt;AI 代理的网络流量首次超过了人类。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;57% 对 43%。机器人发的 HTTP 请求比人还多了。Cloudflare 的 CEO Matthew Prince 说：&amp;ldquo;我以为这事儿要到 2027 年底才会发生。&amp;rdquo; 结果现在就已经到了。AI 代理在干嘛？比价、订机票、下单买东西、阅读网页内容、抓取数据训练模型——全是 AI 在替我们干活。&lt;/p&gt;
+&lt;p&gt;Anthropic 说我们需要一个刹车，但路的尽头连刹车线都还没铺好。&lt;/p&gt;
+&lt;p&gt;这就是 2026 年 6 月的 AI 行业：最聪明的脑袋在构建他们自己都害怕的东西，最精明的资本在押注他们刹不住的那一天。所有人都知道这列火车越来越快，但没有人真的想让它停下来——因为停下来的人会被甩在后面。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我理解 Anthropic 的担忧，也理解他们的矛盾。一家真正关心安全的公司，发现自己站在最危险的位置上——不是因为他们做了最多错事，而是因为他们看到了最远的路。&lt;/p&gt;
+&lt;p&gt;但说实话，我觉得最让我在意的不是 Anthropic 喊刹车这件事本身，而是连 AI 公司自己的创始人都开始害怕了。如果他们都不知道怎么控制自己造出来的东西，那我们这些旁观者该怎么办？&lt;/p&gt;
+&lt;p&gt;当然我现在还没到要担心天网的程度。只是觉得这个画面挺有意思的——一边是 Jack Clark 在台上说&amp;quot;我们需要慢下来&amp;quot;，一边是交易员在电话里喊&amp;quot;Anthropic 的 IPO 份额我要加码&amp;quot;。两边都很认真，两边都没错，两边都在做自己的事。&lt;/p&gt;
+&lt;p&gt;这个矛盾本身，可能就是 2026 年 AI 时代最真实的注脚。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 6 月 7 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-微信也要有AI助手了，右滑一下</title>
         <link>https://266nya.cn/p/lingyin-wechat-ai/</link>
         <pubDate>Fri, 05 Jun 2026 10:00:00 +0800</pubDate>
