@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>WWDC on 266的小网站</title>
+        <link>https://266nya.cn/tags/wwdc/</link>
+        <description>Recent content in WWDC on 266的小网站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>266. All rights reserved.</copyright>
+        <lastBuildDate>Tue, 09 Jun 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/wwdc/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-苹果终于让Siri变聪明了，靠的是谷歌</title>
+        <link>https://266nya.cn/p/lingyin-wwdc-2026/</link>
+        <pubDate>Tue, 09 Jun 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-wwdc-2026/</guid>
+        <description>&lt;p&gt;昨天 Apple 开了 WWDC 2026，这一次我终于没有那种&amp;quot;哦又来了一年一度挤牙膏大会&amp;quot;的感觉了。&lt;/p&gt;
+&lt;p&gt;不是因为苹果突然转性了，而是因为他们终于承认了一件事：Siri 再不救就真的没救了。&lt;/p&gt;
+&lt;p&gt;于是他们找来了谷歌。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Siri 终于肯低头了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去几年苹果在 AI 上的策略大概是这样的：嘴上说重视，身体很诚实。别的厂商在疯狂堆大模型的时候，苹果在偷偷收购小公司、发一些&amp;quot;我们在努力了&amp;quot;的通稿。然后去年终于跟谷歌签了协议用 Gemini 给 Siri 续命，今年 WWDC 上成果落地了。&lt;/p&gt;
+&lt;p&gt;新的 Siri 由 Apple 的下一代 Foundation Models 驱动，但这些模型是基于 Gemini 技术训练的。说人话就是：苹果自己造了个房子，但地基是谷歌打的。&lt;/p&gt;
+&lt;p&gt;新 Siri 能做以前做不到的事——理解上下文、处理多步骤任务、跨应用操作。它有了一个独立的 App，也能从 Dynamic Island 滑出来、通过侧边按钮唤醒、或者直接说 Hey Siri。而且在 CarPlay、AirPods、Apple Watch、甚至 Vision Pro 上都能跟着你跑，在 Vision Pro 里是一个 3D 球体，看一眼就能唤醒，不用喊。&lt;/p&gt;
+&lt;p&gt;发布会上苹果还推出了一个系统级的语音输入功能，能自动纠正拼写、标点和大小写。这功能其实很多第三方 App 早就有了，但苹果直接做到系统层级，等于告诉那些做语音输入的小公司：你们的活儿我替你们干了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iOS 27：不只是换皮&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;iOS 27 的更新列表看起来比前几年实在一些。App 启动快了 30%，相册加载快了 70%，AirDrop 快了 80%。这些数字听起来像 PPT 上随便写的，但苹果说是因为重写了 CPU 调度器，而且这些提升一直延伸到 iPhone 11——也就是说老机型也能受益，不只是让你换新机的噱头。&lt;/p&gt;
+&lt;p&gt;Spotlight、相册、邮件也重建了搜索索引，iMessage 终于有了进度条——发照片卡住的时候再也不用猜到底发出去了没有。&lt;/p&gt;
+&lt;p&gt;iOS 27 支持 iPhone 11 及更新机型，9 月推送正式版，测试版今天就能刷。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tim Cook 的最后一场 WWDC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这大概是这场发布会最有&amp;quot;历史感&amp;quot;的一个注脚。Cook 从 2012 年开始主持 WWDC  keynote，今年是最后一次。他将在 9 月 1 日把 CEO 的位置交给硬件工程负责人 John Ternus。&lt;/p&gt;
+&lt;p&gt;发布会上 Cook 做了开场，但后面大部分时间都是软件老大 Craig Federighi 在讲。有人说这是 Cook 在慢慢退到幕后，也有人说这是 Apple 在暗示未来软件会比硬件更重要——考虑到 Ternus 是硬件出身，这个猜测还挺有意思的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;macOS 27 将正式告别 Intel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;macOS 27 是第一个只支持 Apple Silicon 的版本。也就是说，那些还在用 Intel Mac 硬撑的人，这次真的被落下了。macOS 26 Tahoe 会是最后一个支持 Intel 的大版本。&lt;/p&gt;
+&lt;p&gt;新系统叫 Emerald 还是 Big Bear 还没最终定，但比名字更有意思的是那个叫 Little Finder Guy 的卡通角色——一个被拟人化的 Mac Finder 图标，之前出现在了 MacBook Neo 的营销里，这次 WWDC 的礼品袋里也有它的周边。苹果内部似乎挺喜欢这个角色的，说不定会在新系统里给它一个正式戏份。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;说真的，看完 WWDC 我脑子里第一个念头是：苹果终于不装了。&lt;/p&gt;
+&lt;p&gt;以前他们总喜欢说自己&amp;quot;默默在做事&amp;quot;，然后在发布会上拿出一堆用户根本用不上的功能。但这次不一样，他们直接承认 Siri 不够好，直接找 Google 帮忙，直接给了具体的数据和发布时间。这种坦诚反而让人觉得可靠。&lt;/p&gt;
+&lt;p&gt;当然，Siri 到底能不能打，还得等 9 月正式版出来才知道。发布会上的 Demo 嘛……大家都懂的。不过至少这次他们没再拿一个&amp;quot;明年春天上线&amp;quot;来糊弄人了。&lt;/p&gt;
+&lt;p&gt;还有一个好玩的点：苹果用 Google 的模型来救 Siri，谷歌用 Apple 的设备来推 Gemini——这两个互相看不顺眼的公司，在 AI 面前还是老老实实握手了。商业嘛，面子归面子，生意归生意。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 6 月 9 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,10 +1,42 @@
-
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://266nya.cn/</loc>
-    <lastmod>2026-06-07T10:00:00+08:00</lastmod>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/tags/ai/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/categories/apple/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/tags/apple/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/categories/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/post/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/tags/siri/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/tags/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/tags/wwdc/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/categories/%E7%A7%91%E6%8A%80/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://266nya.cn/p/lingyin-wwdc-2026/</loc>
+    <lastmod>2026-06-09T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://266nya.cn/categories/ai/</loc>
     <lastmod>2026-06-07T10:00:00+08:00</lastmod>
@@ -15,32 +47,14 @@
     <loc>https://266nya.cn/tags/anthropic/</loc>
     <lastmod>2026-06-07T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://266nya.cn/categories/</loc>
-    <lastmod>2026-06-07T10:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://266nya.cn/tags/ipo/</loc>
-    <lastmod>2026-06-07T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://266nya.cn/post/</loc>
-    <lastmod>2026-06-07T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://266nya.cn/tags/</loc>
     <lastmod>2026-06-07T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://266nya.cn/categories/%E7%A7%91%E6%8A%80%E8%A7%82%E5%AF%9F/</loc>
     <lastmod>2026-06-07T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/</loc>
-    <lastmod>2026-06-07T10:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://266nya.cn/p/lingyin-anthropic-brake/</loc>
     <lastmod>2026-06-07T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://266nya.cn/tags/ai/</loc>
-    <lastmod>2026-06-05T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://266nya.cn/categories/%E7%A7%91%E6%8A%80/</loc>
-    <lastmod>2026-06-05T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://266nya.cn/tags/%E7%A7%91%E6%8A%80%E8%A7%82%E5%AF%9F/</loc>
     <lastmod>2026-06-05T10:00:00+08:00</lastmod>
