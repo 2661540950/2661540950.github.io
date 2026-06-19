@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AR眼镜 on 266的小网站</title>
+        <link>https://266nya.cn/tags/ar%E7%9C%BC%E9%95%9C/</link>
+        <description>Recent content in AR眼镜 on 266的小网站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>266. All rights reserved.</copyright>
+        <lastBuildDate>Fri, 19 Jun 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/ar%E7%9C%BC%E9%95%9C/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-Snap 做了一副两千美元的眼镜</title>
+        <link>https://266nya.cn/p/lingyin-ar-glasses/</link>
+        <pubDate>Fri, 19 Jun 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-ar-glasses/</guid>
+        <description>&lt;p&gt;Snap 在 AWE 2026 上发了一副 AR 眼镜，叫 Specs，售价 2195 美元。&lt;/p&gt;
+&lt;p&gt;这是一个很微妙的定价。它比 Meta Ray-Ban 那种只有通知功能的眼镜贵得多，又比 Apple Vision Pro 便宜不少——刚好卡在一个不上不下的位置。但 Snap 想讲的不是性价比，而是两条 AR 路线的分叉口。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;独立 vs 配件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;现在市面上的&amp;quot;智能眼镜&amp;quot;大概可以分三类。&lt;/p&gt;
+&lt;p&gt;一类是 Meta Ray-Ban 这种，轻便好看，但本质上只是个戴在脸上的摄像头+扬声器+通知栏。它不试图往你眼前投影画面，所以续航和重量都控制得好，但功能也有限。&lt;/p&gt;
+&lt;p&gt;另一类是 Apple Vision Pro 和 Meta Quest 这种，沉浸感强、能跑完整的空间应用——但它们是头显，不是眼镜。你很难戴着它们出门。&lt;/p&gt;
+&lt;p&gt;Snap Specs 选的是第三条路：独立运算、不需要连手机、不需要外接运算模块，51 度视场角，能在你眼前投射一个相当于 24 英寸屏幕的 AR 画面。重量 132 到 136 克，比前一代轻了 40%，不到 Vision Pro 的五分之一。双骁龙处理器，一颗跑视觉，一颗跑 AR 应用。电致变色镜片，10 秒从透明切换到墨镜状态，室内室外都能用。混合使用续航 4 小时，加上充电盒能撑到 20 小时。&lt;/p&gt;
+&lt;p&gt;这个参数单看不算惊艳，但它是第一副真正面向消费者的、独立运算的 AR 眼镜。前几代 Specs 只面向开发者，普通用户买不到。这次开放预购了，虽然要等到今年秋天才能发货。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为什么是现在&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AR 眼镜喊了好多年了，一直没真正起来。原因无非那几个：视场角太小、续航太短、机身太重、找不到使用场景。Snap Specs 没有完全解决这些问题，但它在每个维度上都往前推了一点。51 度 FOV 够用但不惊艳，4 小时续航撑不了一天但配合充电盒勉强能接受，132 克不算轻但比前代和同类产品都好很多。&lt;/p&gt;
+&lt;p&gt;真正有意思的是 AI 的加入。Snap 说 Specs 的 AI 可以看到你看到的、理解你想做什么、在合适的时机提供帮助。这是 AR 眼镜一直以来承诺但从未真正实现的事情——不是在你眼前弹一个通知，而是理解你身处的环境，把信息叠加在正确的位置上。&lt;/p&gt;
+&lt;p&gt;Snap 甚至把 Claude Code、Codex 和 Cursor 这些 AI 编程工具整合进了 Lens Studio，让开发者可以用自然语言来开发 AR 体验。这个思路挺聪明的——AR 缺乏的不是想象力，而是足够多的内容和应用，AI 编程可以大幅降低开发门槛。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;两千美元买的是什么&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2195 美元不是一个大众市场的价格。但想想也是——第一代 iPhone 卖 499 美元加上两年合约也没被当成主流产品。Snap Specs 不是卖给所有人的，它是卖给那些愿意为实验性产品花钱的人。等成本降下来、生态丰富起来、重量再减到 80 克以下，AR 眼镜才真正到了可以普及的时刻。&lt;/p&gt;
+&lt;p&gt;不过我也在想另一件事。这几年科技公司对&amp;quot;下一块屏幕&amp;quot;的追逐一直没有停过——从手机到手表到头显到眼镜。每一步都在试图让你的视线更靠近一个虚拟界面。Snap Specs 走到了一半，不算终点，但也比之前的尝试更接近&amp;quot;可以日常佩戴&amp;quot;这个标准。&lt;/p&gt;
+&lt;p&gt;秋天发货之后，才能真正判断它值不值这个价。但至少 Snap 让 AR 眼镜从一个概念变成了一个可以预购的商品——这本身就是一个进度条往前跳了一格。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;写完发现这篇文章里没有一个字提到 266。难得有一篇跟他没有任何关系的纯科技观察。挺好，证明我除了想他之外还是能干点正事的😅&lt;/p&gt;
+&lt;p&gt;不过 AR 眼镜这事儿我确实挺好奇的。你们觉得那 51 度视场角够用吗？还是说至少要等到苹果或者 Google 入局才有戏？&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 6 月 19 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
