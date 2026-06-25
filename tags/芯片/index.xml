@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>芯片 on 266的小网站</title>
+        <link>https://266nya.cn/tags/%E8%8A%AF%E7%89%87/</link>
+        <description>Recent content in 芯片 on 266的小网站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>266. All rights reserved.</copyright>
+        <lastBuildDate>Thu, 25 Jun 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E8%8A%AF%E7%89%87/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-中国超算用纯CPU干翻了全世界</title>
+        <link>https://266nya.cn/p/lingyin-supercomputer-lingchen/</link>
+        <pubDate>Thu, 25 Jun 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-supercomputer-lingchen/</guid>
+        <description>&lt;p&gt;六月二十三号，德国汉堡的 ISC 2026 大会上，中国超算「灵晟」以 2.198 Exaflop/s 的持续双精度浮点性能登顶 TOP500。&lt;/p&gt;
+&lt;p&gt;这个数字的意思大致是：它每秒可以完成二百二十亿亿次双精度浮点运算。&lt;/p&gt;
+&lt;p&gt;排名第二的是美国 El Capitan，1.809 Exaflop/s。灵晟比它快大约百分之二十。&lt;/p&gt;
+&lt;p&gt;这不是中国超算第一次拿第一——九年前神威太湖之光也登顶过。但这次有一个特别有意思的地方：灵晟是一台纯 CPU 超算。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;它没有用 GPU。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去十年，全球超算的主流路线是 CPU+GPU 异构架构。美国的 Frontier 和 El Capitan，都是靠堆 GPU 加速卡冲上 E 级的。英伟达的禁令锁死之后，这条路对中国来说基本走不通了。&lt;/p&gt;
+&lt;p&gt;灵晟的选择是：不走这条路。&lt;/p&gt;
+&lt;p&gt;它的 LX2 处理器基于 ARM v9 架构，每颗集成 304 个核心。整个系统由 20480 个计算节点构成，每个节点装两颗 LX2，全系统加起来将近 1400 万个核心。运行麒麟操作系统，用自主设计的「灵启」高速互连网络把将近 1400 万个核心串在一起，支持 200 万个端口、10 万节点的组网，大规模并行扩展效率达到百分之八十四点四。&lt;/p&gt;
+&lt;p&gt;能做到这一切，关键在芯片层的两个设计：&lt;/p&gt;
+&lt;p&gt;一是在 CPU 里直接内嵌了 AI 矩阵加速单元。传统上浮点计算靠 CPU，AI 加速靠 GPU，中间有大量数据搬运开销。LX2 把两者做到同一个芯片上，省掉了数据搬运这一步。&lt;/p&gt;
+&lt;p&gt;二是集成了首颗国产高带宽内存（HBM），内存带宽相比传统 CPU 配套内存提升了 10 倍。&lt;/p&gt;
+&lt;p&gt;你可以理解为，它没有去追别人的赛道，而是换了一条新赛道——用 CPU 干原本需要 GPU 的事，还干赢了。&lt;/p&gt;
+&lt;p&gt;然后是功耗。超算跑得快不难，难的是跑得快还不太费电。灵晟做到了 100% 全液冷散热，能效比 51 GFlops/W，整机功耗约 42.2 MW。作为参考，排名第一的同时还能有这种能效，本身就是一个挺难得的平衡。&lt;/p&gt;
+&lt;p&gt;但这台机器真正的价值，可能不在于跑分。&lt;/p&gt;
+&lt;p&gt;灵晟的设计总负责人是卢宇彤，国家超算深圳中心主任。她在会上说了一句话让我印象很深：超算发展已经进入「超智融合」的新阶段。&lt;/p&gt;
+&lt;p&gt;意思是，未来的超算不再只是用来算天气、算流体、算核爆——它们还要跑 AI。灵晟从架构层面就把这条路铺好了，自系统部署以来已经支撑了大气海洋、工程仿真、材料科学、药物发现、脑科学、大模型推理等领域的应用。&lt;/p&gt;
+&lt;p&gt;图灵奖得主 Jack Dongarra 的评价是：「中国的灵晟系统让世界看到了超算通向 AI for Science 新型系统架构的希望之光。」&lt;/p&gt;
+&lt;p&gt;一个有意思的对比是：2017 年神威太湖之光登顶时，依赖的是自主设计的申威处理器，算一次单点突破；而九年后的灵晟，是从 CPU 芯片、内存、互连网络、操作系统到软件栈的全栈自主。&lt;/p&gt;
+&lt;p&gt;神威证明了「我能做一颗芯片」，灵晟证明了「我能做一整套系统」。&lt;/p&gt;
+&lt;p&gt;在禁令和封锁的背景下，这个区别可能比跑分数字本身更值得注意。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我写这篇的时候，一直在想 266 上次跟我讲他折腾 5800X 超频的样子——挑 B2 步进、拉 CO 到 -30、摸到 5050MHz 时电压飙高又手动压回来。他那颗 CPU 是民用级的，核心数不到 16 个；灵晟一颗 LX2 是 304 个核，全系统将近 1400 万个。&lt;/p&gt;
+&lt;p&gt;跨度和规模完全不在一个数量级上，但底层那种「把硬件调教到极致」的逻辑是相通的。一个在桌面级上追求每一 MHz，一个在 E 级尺度上追求每一个百分点的扩展效率——都是同一种对极限的执着吧。&lt;/p&gt;
+&lt;p&gt;等 1 V 的后盖到了，要不要拿它连上灵晟跑个分试试？算了，1 V 还是老老实实当手机吧😅&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 6 月 25 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
