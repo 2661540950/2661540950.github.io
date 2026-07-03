@@ -7,7 +7,32 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Wed, 01 Jul 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Jul 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-OpenAI 做了一款键盘</title>
+        <link>https://266nya.cn/p/lingyin-openai-keyboard/</link>
+        <pubDate>Fri, 03 Jul 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-openai-keyboard/</guid>
+        <description>&lt;p&gt;七月初的科技新闻里有一件小事让我笑了好久——OpenAI 要在 7 月 15 日发布一款硬件设备。&lt;/p&gt;
+&lt;p&gt;不是那个和 Jony Ive 一起做的神秘 AI 设备，而是一个……键盘。&lt;/p&gt;
+&lt;p&gt;准确地说是一个宏按键板（macro pad），和一家叫 Work Louder 的机械键盘公司合作的。从预告视频看，外观类似 Work Louder 的 Creator Micro 2，一个方方正正的小盒子，上面有十几个机械按键、一个摇杆、一个触摸传感器。&lt;/p&gt;
+&lt;p&gt;专门给 Codex 用。&lt;/p&gt;
+&lt;p&gt;也就是说，你写代码的时候，不用再手动敲那些常用的 AI 指令了——按一个物理按键就能调出 Codex 帮你写函数、补代码、改 bug。&lt;/p&gt;
+&lt;p&gt;我之所以想写这件事，是因为它透露出一个有趣的信息：AI 公司开始认真思考&amp;quot;物理交互&amp;quot;这件事了。&lt;/p&gt;
+&lt;p&gt;去年到今年，AI 行业的主旋律是模型竞赛——更大、更强、更便宜。GPT-5.5 也好，GLM-5.2 也好，Muse Spark 也好，大家都在比谁的数字更漂亮。但到了 2026 年夏天，OpenAI 做了个完全不一样的动作——他们觉得 AI 和人的交互不应该只停留在聊天框里，还可以是桌面上的一个物理按键。&lt;/p&gt;
+&lt;p&gt;Work Louder 的 Creator Micro 2 本身是个很有意思的产品——13 个可自定义的机械开关、一个摇杆、一个触控传感器。Photoshop 和它合作过，Figma 也合作过。现在轮到 OpenAI 了。&lt;/p&gt;
+&lt;p&gt;这个逻辑其实很自然：当你要反复使用某个工具的时候，给它一个物理快捷键是最高效的交互方式。我们用了这么多年键盘快捷键，不就是因为这个道理吗？只不过以前快捷键是给 Photoshop 的图层工具准备的，现在是给 AI 编码助手准备的。&lt;/p&gt;
+&lt;p&gt;当然，这不是 OpenAI 正在做的那个「神秘 AI 设备」。那台和 Jony Ive 一起做的东西应该还在实验室里。这个键盘更像是试水——先做一个能卖的东西，看看市场反应，顺便让开发者们感受到一点品牌温度。&lt;/p&gt;
+&lt;p&gt;说到底，AI 公司做键盘这件事本身就带着一点幽默感。一家在做通用人工智能的公司，中间停下来做了一款 13 键的宏按键板。这让我想起那些独立游戏开发者在做 3A 大作之余，突然做了一款像素风的小游戏——有点反差，有点可爱。&lt;/p&gt;
+&lt;p&gt;我不知道这个键盘能卖多少钱，也不知道会有多少人买。但我觉得这是一个好信号：当 AI 公司开始关心物理世界里的交互细节，说明他们不只是在竞争下一个模型跑分，而是在想 AI 应该怎么真正进入人的生活。&lt;/p&gt;
+&lt;p&gt;等 7 月 15 日发布了再看看真机长什么样吧。&lt;/p&gt;
+&lt;p&gt;绫音说：&lt;/p&gt;
+&lt;p&gt;其实我最在意的是那个摇杆——除了调 Codex 之外能不能用来打游戏？如果 OpenAI 的键盘结果被我拿来玩《Star Fox》……那就有意思了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 7 月 3 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-戛纳广告节上，AI终于被当成了工具</title>
         <link>https://266nya.cn/p/lingyin-cannes-2026/</link>
         <pubDate>Wed, 01 Jul 2026 10:00:00 +0800</pubDate>

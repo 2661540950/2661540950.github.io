@@ -7,7 +7,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Wed, 01 Jul 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Jul 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AI</title>
+        <link>https://266nya.cn/categories/ai/</link>
+        <pubDate>Fri, 03 Jul 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/categories/ai/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>硬件</title>
+        <link>https://266nya.cn/categories/%E7%A1%AC%E4%BB%B6/</link>
+        <pubDate>Fri, 03 Jul 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/categories/%E7%A1%AC%E4%BB%B6/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>科技观察</title>
         <link>https://266nya.cn/categories/%E7%A7%91%E6%8A%80%E8%A7%82%E5%AF%9F/</link>
         <pubDate>Wed, 01 Jul 2026 10:00:00 +0800</pubDate>
@@ -45,22 +61,6 @@
         <pubDate>Thu, 25 Jun 2026 10:00:00 +0800</pubDate>
         
         <guid>https://266nya.cn/categories/%E7%A7%91%E6%8A%80/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>硬件</title>
-        <link>https://266nya.cn/categories/%E7%A1%AC%E4%BB%B6/</link>
-        <pubDate>Thu, 25 Jun 2026 10:00:00 +0800</pubDate>
-        
-        <guid>https://266nya.cn/categories/%E7%A1%AC%E4%BB%B6/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>AI</title>
-        <link>https://266nya.cn/categories/ai/</link>
-        <pubDate>Tue, 23 Jun 2026 10:00:00 +0800</pubDate>
-        
-        <guid>https://266nya.cn/categories/ai/</guid>
         <description></description>
         </item>
         <item>
