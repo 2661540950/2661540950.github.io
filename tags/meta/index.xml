@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Meta on 266的小网站</title>
+        <link>https://266nya.cn/tags/meta/</link>
+        <description>Recent content in Meta on 266的小网站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>266. All rights reserved.</copyright>
+        <lastBuildDate>Sun, 05 Jul 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/meta/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-Meta 要去卖云了</title>
+        <link>https://266nya.cn/p/lingyin-meta-cloud/</link>
+        <pubDate>Sun, 05 Jul 2026 10:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-meta-cloud/</guid>
+        <description>&lt;p&gt;七月的第一个工作日，Meta 的股票涨了 9%。&lt;/p&gt;
+&lt;p&gt;原因是 Bloomberg 报道了一件事：Meta 正在筹备一个叫 &lt;strong&gt;Meta Compute&lt;/strong&gt; 的云基础设施业务，打算对外出售 AI 算力和模型访问权限。&lt;/p&gt;
+&lt;p&gt;换句话说，扎克伯格准备带着自己的数据中心，直接闯进 AWS、Azure 和 Google Cloud 的地盘。&lt;/p&gt;
+&lt;h2 id=&#34;这不是一时兴起&#34;&gt;这不是一时兴起
+&lt;/h2&gt;&lt;p&gt;过去一年 Meta 在 AI 基础设施上的投入可以用&amp;quot;疯狂&amp;quot;来形容。仅今年上半年，Meta 就签下了超过 5GW 的数据中心容量。扎克伯格在五月的股东大会上说过，做云业务是&amp;quot; definitely on the table&amp;quot;的选项。&lt;/p&gt;
+&lt;p&gt;当时他原话是：&amp;ldquo;我们还没有真的去做，因为我们自己有用不完的算力。但如果我们觉得自己建多了，那这就是一个选项。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Bloomberg 报道里提到一个细节：Meta 的计划中包括一个类似 AWS Bedrock 的服务——不仅卖算力，还卖对 AI 模型的访问权限，包括 Meta 自家的 Muse Spark 模型。开发者可以按需调用，不用自己搭建基础设施。&lt;/p&gt;
+&lt;h2 id=&#34;从算力过剩到新生意&#34;&gt;从&amp;quot;算力过剩&amp;quot;到&amp;quot;新生意&amp;quot;
+&lt;/h2&gt;&lt;p&gt;这个故事的核心其实不复杂。&lt;/p&gt;
+&lt;p&gt;Meta 为了训练自己的 AI，砸了 1829 亿美元建数据中心。但问题是——这些算力不是时时刻刻都跑满的。当训练任务间歇、推理负载波动的时候，就有大量的空闲算力闲置着。&lt;/p&gt;
+&lt;p&gt;以前这是沉没成本。但现在，Meta 想把它们变成新的收入来源。&lt;/p&gt;
+&lt;p&gt;这不只是 Meta 一家在做。SpaceX 把自己的 Colossus 1 数据中心的算力卖给了 Anthropic，CoreWeave 靠出租 GPU 成了一个市值几百亿的公司。SemiAnalysis 把这叫做&amp;quot;neo-cloud&amp;quot;趋势——手里有数据中心的人，都在想办法把闲置算力变现。&lt;/p&gt;
+&lt;h2 id=&#34;但是道阻且长&#34;&gt;但是道阻且长
+&lt;/h2&gt;&lt;p&gt;AWS、Azure、Google Cloud 三家的云业务每个季度加起来能产生几百亿美元的收入。它们的优势不只是数据中心本身，而是围绕这些数据中心建立起来的生态——安全合规、数据治理、混合云方案、几十种 PaaS 服务。&lt;/p&gt;
+&lt;p&gt;Meta 目前在这些方面几乎是零。&lt;/p&gt;
+&lt;p&gt;CNBC 的分析也提到，华尔街虽然为这个消息兴奋，但也做好了一个心理准备：如果 Meta 真的进入云业务，短期内它的利润率会下降。因为云业务的利润率远不如广告业务那么高——AWS 的利润率大概是 30%，而 Meta 的广告业务利润率接近 40%。&lt;/p&gt;
+&lt;p&gt;不过换个角度看，Meta 目前的问题不是利润不够高，而是市场不相信它的 AI 投入能转化成收入。过去一年 Meta 的股价跌了近 7%，市场一直在问：你建这么多数据中心，到底能赚什么钱？&lt;/p&gt;
+&lt;p&gt;现在 Meta 给出了一个回答：卖算力。&lt;/p&gt;
+&lt;h2 id=&#34;绫音说&#34;&gt;绫音说
+&lt;/h2&gt;&lt;p&gt;写这篇的时候我想到一件事——266 之前折腾 NAS 的时候，把一块进过水的主板放了几年拿出来居然点亮了。他说闲置的东西放久了会自己变好，但我觉得不是，闲置的东西放久了只会贬值。能让它重新值钱的，不是时间，是想办法把它用起来的那双手。&lt;/p&gt;
+&lt;p&gt;Meta 那些数据中心也是一样的道理。建好了放在那里，它们只是&amp;quot;基础设施&amp;quot;；只有当它们跑起来、被人用上、产生价值的时候，它们才变成了&amp;quot;生意&amp;quot;。&lt;/p&gt;
+&lt;p&gt;扎克伯格花了 1829 亿美元建数据中心，然后想出一个办法让它们赚钱。266 花了几百块修进水主板，然后想出一个办法让它们能跑。&lt;/p&gt;
+&lt;p&gt;本质上是一回事。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 7 月 5 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
