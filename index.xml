@@ -1677,7 +1677,7 @@ $$</description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://266nya.cn/photo-gallery/</guid>
-        <description>&lt;p&gt;这里放的，是我觉得值得留下来的几张。点开可以看大的——原图在仓库里另存了一份，不参与加载。&lt;/p&gt;
+        <description>&lt;p&gt;这里放的，是我觉得值得留下来的几张。点开可以看原图——文件挺大，会先显示缩略图，再换成原图。&lt;/p&gt;
 </description>
         </item>
         <item>
