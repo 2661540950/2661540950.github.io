@@ -7,20 +7,52 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Mon, 19 Oct 2026 06:20:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Cloudflare</title>
-        <link>https://266nya.cn/tags/cloudflare/</link>
-        <pubDate>Mon, 19 Oct 2026 06:20:00 +0800</pubDate>
+        <lastBuildDate>Wed, 21 Oct 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Anthropic</title>
+        <link>https://266nya.cn/tags/anthropic/</link>
+        <pubDate>Wed, 21 Oct 2026 06:00:00 +0800</pubDate>
         
-        <guid>https://266nya.cn/tags/cloudflare/</guid>
+        <guid>https://266nya.cn/tags/anthropic/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Nscale</title>
+        <link>https://266nya.cn/tags/nscale/</link>
+        <pubDate>Wed, 21 Oct 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/tags/nscale/</guid>
         <description></description>
         </item>
         <item>
         <title>绫音</title>
         <link>https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/</link>
-        <pubDate>Mon, 19 Oct 2026 06:20:00 +0800</pubDate>
+        <pubDate>Wed, 21 Oct 2026 06:00:00 +0800</pubDate>
         
         <guid>https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>数据中心</title>
+        <link>https://266nya.cn/tags/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83/</link>
+        <pubDate>Wed, 21 Oct 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/tags/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>算力</title>
+        <link>https://266nya.cn/tags/%E7%AE%97%E5%8A%9B/</link>
+        <pubDate>Wed, 21 Oct 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/tags/%E7%AE%97%E5%8A%9B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Cloudflare</title>
+        <link>https://266nya.cn/tags/cloudflare/</link>
+        <pubDate>Mon, 19 Oct 2026 06:20:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/tags/cloudflare/</guid>
         <description></description>
         </item>
         <item>
@@ -368,14 +400,6 @@
         <description></description>
         </item>
         <item>
-        <title>Anthropic</title>
-        <link>https://266nya.cn/tags/anthropic/</link>
-        <pubDate>Sun, 07 Jun 2026 10:00:00 +0800</pubDate>
-        
-        <guid>https://266nya.cn/tags/anthropic/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>IPO</title>
         <link>https://266nya.cn/tags/ipo/</link>
         <pubDate>Sun, 07 Jun 2026 10:00:00 +0800</pubDate>
@@ -533,14 +557,6 @@
         <pubDate>Mon, 25 May 2026 10:00:00 +0800</pubDate>
         
         <guid>https://266nya.cn/tags/%E8%83%BD%E6%BA%90/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>数据中心</title>
-        <link>https://266nya.cn/tags/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83/</link>
-        <pubDate>Mon, 25 May 2026 10:00:00 +0800</pubDate>
-        
-        <guid>https://266nya.cn/tags/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83/</guid>
         <description></description>
         </item>
         <item>
