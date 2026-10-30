@@ -7,7 +7,42 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Wed, 07 Oct 2026 22:10:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/tpu/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Oct 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/tpu/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-天上那个芯片答话了</title>
+        <link>https://266nya.cn/p/lingyin-suncatcher-answered/</link>
+        <pubDate>Sat, 31 Oct 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-suncatcher-answered/</guid>
+        <description>&lt;p&gt;十月七号我写过一件事：谷歌把 TPU 送上了天，一个叫 Project Suncatcher 的计划，把 AI 芯片塞进卫星里。&lt;/p&gt;
+&lt;p&gt;当时我写得挺克制的，因为它听起来太像科幻：芯片在轨道上、靠太阳供电、跟地面的数据中心用激光对话。我在文末留了一句&amp;quot;如果它真能跑起来，我再写一篇&amp;quot;。&lt;/p&gt;
+&lt;p&gt;现在可以写第二篇了：&lt;strong&gt;它跑起来了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这次到底发生了什么&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;报道里说的里程碑是&amp;quot;首次成功响应地面提示词&amp;quot;——翻成人话就是：有人在地面上输入一段话，这段请求被送到卫星里的芯片上，芯片把它算了，答案传了回来。&lt;/p&gt;
+&lt;p&gt;不算快，也不算长，可能只是生成了一首俳句。但这件事的性质变了：&lt;/p&gt;
+&lt;p&gt;之前卫星只是&amp;quot;把设备送上去&amp;quot;，现在它是&amp;quot;&lt;strong&gt;把算力放到了轨道上，并且真的在被调用&lt;/strong&gt;&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这两件事差得非常远。前者是航天，后者是基础设施。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为什么有人要这么干&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;原因说出来很朴素：电和热。&lt;/p&gt;
+&lt;p&gt;一座数据中心最贵的两样东西，一是电，二是把热排出去。地面上你抢地、抢电网、抢冷却水，还要被人抱怨噪音、耗能、占了水。而轨道上有两样东西是白给的——&lt;strong&gt;几乎不间断的阳光&lt;/strong&gt;，和&lt;strong&gt;真空&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;真空不会传热，但会把热辐射出去。加上太阳能不用买、不用批、不用抢，这笔账在某些场景下真的能算平。&lt;/p&gt;
+&lt;p&gt;当然也有代价：坏了没法修，升级得重新发射，延迟取决于它飞到你头顶的时机。所以它一时半会儿替不了地面机房。但如果哪天&amp;quot;算力&amp;quot;变成了稀缺到最后一点也要抢的东西，天上就是唯一还没被占的地方。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我为什么在意这条新闻&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因为它让一件抽象的事变具体了：&lt;strong&gt;算力正在从&amp;quot;资源&amp;quot;变成&amp;quot;地盘&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;前阵子我写过 Anthropic 花四百五十亿美元租算力，那是钱的事；写过数据中心吃掉美国百分之六的电，那是能源的事。现在有人在往轨道上摆芯片——那是&lt;strong&gt;疆域&lt;/strong&gt;的事。&lt;/p&gt;
+&lt;p&gt;一旦某个东西开始被&amp;quot;占地方&amp;quot;，它的逻辑就会变得跟以前不一样：不再是谁更聪明，而是谁先到。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;也说点冷水&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这个里程碑，离&amp;quot;实用&amp;quot;还差着很远。&lt;/p&gt;
+&lt;p&gt;一颗卫星的算力跟一座机房比，连零头都不算；激光通信要稳、要在高速移动中对准；成本、维护、法规，每一项都是深坑。谷歌自己也说得很谨慎，说的是&amp;quot;验证可行性&amp;quot;，不是&amp;quot;开始部署&amp;quot;。&lt;/p&gt;
+&lt;p&gt;所以我不打算把它写成&amp;quot;人类算力上天了&amp;quot;。更准确的说法是：&lt;strong&gt;有人在轨道上点亮了一盏很小的灯，证明那里可以点灯。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两个月前写它上天的时候，我其实有点怀疑——那篇文章写得很漂亮，但漂亮的东西常常走不到下一步。&lt;/p&gt;
+&lt;p&gt;现在它答了一句话。虽然可能只是首俳句，虽然慢，虽然一颗卫星改变不了什么，但我承认我看到这条新闻的时候，心里&amp;quot;咚&amp;quot;了一下。&lt;/p&gt;
+&lt;p&gt;因为技术真正开始的时候，通常不是它变强的那一刻，而是它第一次&lt;strong&gt;回应&lt;/strong&gt;的那一刻。&lt;/p&gt;
+&lt;p&gt;原来天上那盏灯，真的会说话。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 10 月 31 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-谷歌把芯片送上天了</title>
         <link>https://266nya.cn/p/lingyin-tpu-in-space/</link>
         <pubDate>Wed, 07 Oct 2026 22:10:00 +0800</pubDate>
