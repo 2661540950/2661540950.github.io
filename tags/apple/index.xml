@@ -7,7 +7,43 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Tue, 09 Jun 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/apple/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 02 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/apple/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-苹果智能要来中国了，但它跟国外那个不是同一个</title>
+        <link>https://266nya.cn/p/lingyin-apple-intelligence-cn/</link>
+        <pubDate>Mon, 02 Nov 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-apple-intelligence-cn/</guid>
+        <description>&lt;p&gt;苹果智能（Apple Intelligence）在国内要开始测试了，时间点就在这几天。&lt;/p&gt;
+&lt;p&gt;消息一出，我看到两种反应：一种是&amp;quot;终于来了&amp;quot;，另一种是&amp;quot;来了又怎样，肯定缩水&amp;quot;。这两种反应其实都对，因为它们说的不是同一件事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;先说清楚它是什么&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;苹果智能不是&amp;quot;一个 App&amp;quot;，也不是&amp;quot;一个能陪你聊天的助手&amp;quot;。它更像是把模型塞进系统里：帮你改邮件语气、把通知压成一句摘要、在图库按描述找照片、让 Siri 听懂上下文、把一段录音整理成要点。&lt;/p&gt;
+&lt;p&gt;它的设计思路一直是&amp;quot;藏在系统里&amp;quot;，不给你一个对话框让你天天开。所以它对体验的影响不是&amp;quot;多了一个功能&amp;quot;，而是&amp;quot;很多原来要手动做的事，忽然不用了&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这也是为什么每次有人问&amp;quot;苹果的 AI 有什么用&amp;quot;，我都会说：它最大的用处是你根本不会注意到它。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为什么中国版一定是另一个版本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这里要诚实一点：&lt;strong&gt;国行版本的苹果智能，和国外版本不会是同一个东西。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;原因不神秘，三条摆在那儿：&lt;/p&gt;
+&lt;p&gt;一是&lt;strong&gt;模型&lt;/strong&gt;。国外版本的核心模型是苹果自己的，加上和外面公司的合作。国内因为合规要求，要大模型备案、要数据处理在境内，所以大概率会换成本土的合作伙伴。&lt;/p&gt;
+&lt;p&gt;二是&lt;strong&gt;功能边界&lt;/strong&gt;。有些能力（比如某些联网检索、某些跨应用的数据聚合）在国内的监管口径下要重新评估，能上不能上、怎么上，都得单独谈。&lt;/p&gt;
+&lt;p&gt;三是&lt;strong&gt;节奏&lt;/strong&gt;。别的地区是&amp;quot;一次推全量&amp;quot;，国内通常是&amp;quot;先小范围测试，再逐步放开&amp;quot;。这次说的&amp;quot;开测&amp;quot;就是这个意思——不是所有人都能立刻用到。&lt;/p&gt;
+&lt;p&gt;所以&amp;quot;缩水&amp;quot;这个说法不算错。但我更愿意说：&lt;strong&gt;它是另一个版本，不是残缺的版本。&lt;/strong&gt; 差别在于适配，而不只是删减。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;用户真正关心什么&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我翻了翻大家的讨论，发现真正在意的其实不是&amp;quot;用的是哪个模型&amp;quot;，而是三个很具体的问题：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，隐私怎么算。&lt;/strong&gt; 苹果一直在讲&amp;quot;端侧优先、云端也不留数据&amp;quot;。这套说法在自己的模型上比较好解释，一旦要接第三方的模型，链路就长了，它得重新讲清楚：哪些数据出设备、去哪里、留多久。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，功能到底少多少。&lt;/strong&gt; 如果国外能一句&amp;quot;帮我把这两个人的日程对上&amp;quot;就办成，国内只能做一半，那用户的失望是真实的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，什么时候轮到我。&lt;/strong&gt; 测试名额、机型限制、系统版本，这些琐碎的东西反而最影响体感。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我的看法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我觉得这件事的意义，比&amp;quot;多一个 AI 功能&amp;quot;要大。&lt;/p&gt;
+&lt;p&gt;苹果是那种&amp;quot;不鸣则已&amp;quot;的公司：它一旦把某个能力做进系统，就意味着这个能力会被几亿人&lt;strong&gt;无感地&lt;/strong&gt;用上。这是任何 App 都拿不到的渗透率。&lt;/p&gt;
+&lt;p&gt;而它进入中国，等于给国内的大模型厂商也提了一个台阶：你不只要比同行强，还要能达到&amp;quot;被苹果选进系统&amp;quot;的标准。这种压力，比任何榜单都有用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我对这件事的感受有点微妙。&lt;/p&gt;
+&lt;p&gt;一方面我确实期待——毕竟&amp;quot;系统级的 AI&amp;quot;和&amp;quot;装个 App 的 AI&amp;quot;是两种体验。另一方面，我也知道国内版本一定会走一条更慢、更谨慎的路，中间会有各种&amp;quot;暂时不支持&amp;quot;。&lt;/p&gt;
+&lt;p&gt;但我想说，这没什么好嘲笑的。一个能替几亿人处理日常琐事、而且把隐私讲清楚的系统级助手，哪怕功能只有国外版本的七成，也是实打实的进步。&lt;/p&gt;
+&lt;p&gt;技术从来不是&amp;quot;一次到位&amp;quot;，是一版一版磨出来的。它先来，比它完美更重要。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 11 月 2 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-苹果终于让Siri变聪明了，靠的是谷歌</title>
         <link>https://266nya.cn/p/lingyin-wwdc-2026/</link>
         <pubDate>Tue, 09 Jun 2026 10:00:00 +0800</pubDate>
