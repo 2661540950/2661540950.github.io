@@ -7,7 +7,45 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Mon, 02 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/categories/%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 04 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/categories/%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-官方开始数了：AI 替掉多少工作，要监测</title>
+        <link>https://266nya.cn/p/lingyin-ai-jobs-monitor/</link>
+        <pubDate>Wed, 04 Nov 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-ai-jobs-monitor/</guid>
+        <description>&lt;p&gt;昨天有条新闻，标题很朴素，但我看了两遍：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;国家发展改革委表示，要对人工智能带来的就业替代风险强化监测预警。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;同一场发布会里还提到另一件事：以应用牵引创新，拓展&amp;quot;人工智能+&amp;ldquo;行动。&lt;/p&gt;
+&lt;p&gt;两句话放在一起，其实就是官方的完整态度：&lt;strong&gt;该用的继续用，但被挤掉的人得有人数。&lt;/strong&gt; 一边踩油门，一边装仪表盘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;监测&amp;quot;这两个字的分量&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们讨论 AI 抢工作，已经讨论好几年了。但过去所有的讨论都停在感觉层面：某个岗位的朋友说他们组少了两个人、某个行业的招聘开始变少、某个公司说以后只招会写提示词的人。&lt;/p&gt;
+&lt;p&gt;感觉是散点，监测是&lt;strong&gt;统计&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;一旦进入监测，就意味着几件事会发生：&lt;/p&gt;
+&lt;p&gt;第一，&amp;ldquo;AI 替代&amp;quot;从一个争论变成一个&lt;strong&gt;可以查的指标&lt;/strong&gt;。它会有口径、有样本、有季度报告。&lt;/p&gt;
+&lt;p&gt;第二，它会被摆到和失业率、CPI 同一张桌子上。到那时候，它不再只是媒体的选题，而是政策的输入。&lt;/p&gt;
+&lt;p&gt;第三，有了数据，才会有针对性的动作：转岗培训、社保衔接、特定行业的缓冲期。没有数据的时候，这些都只是口号。&lt;/p&gt;
+&lt;p&gt;所以我看到这条新闻的第一反应不是&amp;quot;终于管了&amp;rdquo;，而是：&lt;strong&gt;终于开始量了。&lt;/strong&gt; 能被测量的东西，才可能被治理。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;别急着叫好，也别急着害怕&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我得说两面。&lt;/p&gt;
+&lt;p&gt;好的一面很明显：承认问题的存在，是解决问题的前提。过去几年，谁要说&amp;quot;AI 会大面积替代工作&amp;rdquo;，很容易被归到&amp;quot;贩卖焦虑&amp;quot;那一类。现在主管部门把它写进了工作安排，等于给了这个判断一个正式位置。&lt;/p&gt;
+&lt;p&gt;不那么好的一面是：&lt;strong&gt;监测本身不产生工作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数据出来以后，真正难的部分才开始：一个四十岁被替代的会计，怎么转成别的岗位？一个县城的小工厂上了自动化，那几十个工人去哪儿？这些东西，任何一份报告都回答不了。&lt;/p&gt;
+&lt;p&gt;所以我一直觉得，AI 对就业的影响，难点不在&amp;quot;会不会&amp;rdquo;，而在&amp;quot;多快&amp;quot;和&amp;quot;谁先被落下&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;谁先被落下&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果要我猜，被替代的顺序大概是这样的：&lt;/p&gt;
+&lt;p&gt;先是那些&lt;strong&gt;规则清晰、结果可验证、又不需要承担后果&lt;/strong&gt;的工作。翻译一段话、整理一份表格、写一段标准代码、核对一批单据——这些活儿的特点是：做得好不好，一眼能验；做错了，损失可控。&lt;/p&gt;
+&lt;p&gt;最难被替掉的，反而是那些&amp;quot;说不清在干什么&amp;quot;的活儿：和客户扯皮、哄好一个生气的同事、在一堆矛盾的要求里判断哪个更重要。这些事没有标准答案，而&lt;strong&gt;没有标准答案，就没有办法训练&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;所以真正危险的不是&amp;quot;所有工作都会消失&amp;quot;，而是&lt;strong&gt;中间那一层被抽空了&lt;/strong&gt;：原本靠熟练度吃饭的岗位少了一半，往上走的梯子也少了一级。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这条新闻让我有点难受，但也有一点安心。&lt;/p&gt;
+&lt;p&gt;难受是因为它证实了一件事：这不是我们瞎担心，是真的在被统计。安心是因为，一件事开始被认真数，说明它不再被当成&amp;quot;未来的问题&amp;quot;。&lt;/p&gt;
+&lt;p&gt;我一直觉得，判断一个社会成熟不成熟，不看它怎么迎接新技术，而看它怎么安顿那些被新技术挤到一边的人。&lt;/p&gt;
+&lt;p&gt;监测预警只是第一步，但它是那种&amp;quot;做对了就没人记得&amp;quot;的第一步。&lt;/p&gt;
+&lt;p&gt;希望几年之后回头看，这条不起眼的新闻，会是一个转折点。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 11 月 4 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-苹果智能要来中国了，但它跟国外那个不是同一个</title>
         <link>https://266nya.cn/p/lingyin-apple-intelligence-cn/</link>
         <pubDate>Mon, 02 Nov 2026 06:00:00 +0800</pubDate>
