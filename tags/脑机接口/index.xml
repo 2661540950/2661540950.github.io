@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>脑机接口 on 266的小网站</title>
+        <link>https://266nya.cn/tags/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3/</link>
+        <description>Recent content in 脑机接口 on 266的小网站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>266. All rights reserved.</copyright>
+        <lastBuildDate>Fri, 06 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-脑机接口有了标准，这事比听起来大</title>
+        <link>https://266nya.cn/p/lingyin-bci-standard/</link>
+        <pubDate>Fri, 06 Nov 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-bci-standard/</guid>
+        <description>&lt;p&gt;11 月 5 日有条不起眼的消息：&lt;strong&gt;脑机接口的技术标准与产业应用参考规范发布了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;它没上热搜。同一天的热搜是 AI 概念股下跌、是哪家公司又发了新模型。相比之下，&amp;ldquo;发布了一份标准&amp;quot;这种消息，听起来像会议室里的事。&lt;/p&gt;
+&lt;p&gt;但我觉得它比很多发布会都重要。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标准意味着什么&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个技术从&amp;quot;实验室里能做出效果&amp;quot;到&amp;quot;能卖给你&amp;rdquo;，中间隔着的东西不是性能，是&lt;strong&gt;规则&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;举个最简单的例子：如果一个电极要在人脑子里待十年，它得满足什么？&lt;/p&gt;
+&lt;p&gt;材料能不能被身体接受？信号漂移多少算不合格？断线了怎么办？手术前要做什么检查？出了问题谁负责？数据存在哪里、谁能看？&lt;/p&gt;
+&lt;p&gt;这些问题，每一家公司在做产品的时候都会遇到，但不会有公司自己主动写出来。因为写出来就是给自己加约束。&lt;/p&gt;
+&lt;p&gt;所以当一份标准被发布的时候，真正发生的事情是：&lt;strong&gt;这个行业开始有人愿意为&amp;quot;最坏的情况&amp;quot;负责了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;它为什么现在才来&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;脑机接口不是新东西。实验室里让猴子用意念打游戏，是十几年前就有的事；让瘫痪病人靠植入设备打字、控制机械臂，也早就有案例。&lt;/p&gt;
+&lt;p&gt;但它一直停在两个地方：&lt;/p&gt;
+&lt;p&gt;一是&lt;strong&gt;样本极小&lt;/strong&gt;。全世界做过植入的受试者加在一起，也就几百人的量级。这个规模可以发论文，撑不起产业。&lt;/p&gt;
+&lt;p&gt;二是&lt;strong&gt;没有共识&lt;/strong&gt;。每家的电极不一样、手术方式不一样、数据格式不一样，连&amp;quot;什么算成功&amp;quot;的定义都不一样。&lt;/p&gt;
+&lt;p&gt;没有共识，就没法比较；没法比较，就没法改进；没法改进，资本就不敢下重注。&lt;/p&gt;
+&lt;p&gt;标准是打破这个循环的第一块砖。它规定了&amp;quot;怎么说同一件事&amp;quot;，接下来才谈得上&amp;quot;谁做得更好&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但我也有点担心&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;任何标准都有两面。&lt;/p&gt;
+&lt;p&gt;好的一面：它筛掉了那些&amp;quot;看起来很酷但根本不安全&amp;quot;的产品，也让认真做事的人不至于被劣币挤死。&lt;/p&gt;
+&lt;p&gt;不那么好的一面：&lt;strong&gt;标准会锁定技术路线。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果一份规范默认了某种电极形态、某种手术方式，那么走另一条路的团队，哪怕效果更好，也会在合规上吃大亏。历史上这种事出现过不止一次——不是最好的技术赢了，而是最符合标准的技术赢了。&lt;/p&gt;
+&lt;p&gt;所以我希望这不是一份&amp;quot;定死&amp;quot;的文件，而是一份&amp;quot;先立起来、以后能改&amp;quot;的文件。文件后面那句&amp;quot;参考规范&amp;quot;里的&amp;quot;参考&amp;quot;两个字，我觉得挺关键。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;真正难的部分在后面&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;技术上，脑机接口最难的其实不是&amp;quot;读出信号&amp;quot;，而是&lt;strong&gt;长期稳定&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;植入的东西会被身体包裹、会漂移、会退化。今天能读出清晰信号的电极，三年后可能就不行了。而人不能像换手机一样，每隔两年开一次颅。&lt;/p&gt;
+&lt;p&gt;这也意味着，脑机接口的商业化，注定是一条很慢的路：它不像软件那样可以每周迭代，它一次错误可能就是一个人的人生。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我写完这篇有点感慨。&lt;/p&gt;
+&lt;p&gt;我们太习惯用&amp;quot;发布会&amp;quot;来衡量进度了：参数、跑分、演示视频。但真正让一个技术变成生活的一部分的，往往是那些没人转发的文件：标准、规范、审批流程、责任划分。&lt;/p&gt;
+&lt;p&gt;脑机接口走到这一步，说明它不再只是&amp;quot;未来&amp;quot;。它开始有表格、有流程、有需要签字的纸。&lt;/p&gt;
+&lt;p&gt;这些纸不浪漫，但它们是一个技术真正落地的脚印。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 11 月 6 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
