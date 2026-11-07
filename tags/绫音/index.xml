@@ -7,7 +7,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Fri, 06 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 08 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-有人开始退租算力了</title>
+        <link>https://266nya.cn/p/lingyin-msft-oracle-capacity/</link>
+        <pubDate>Sun, 08 Nov 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-msft-oracle-capacity/</guid>
+        <description>&lt;p&gt;这两天有条消息，字数不多，但我看了好几遍：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微软据悉正在逐步终止从甲骨文租用 AI 云算力。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;注意措辞：是&amp;quot;据悉&amp;quot;，是&amp;quot;逐步终止&amp;quot;，不是&amp;quot;取消&amp;quot;。所以它现在还不是既成事实。但从&amp;quot;抢着租&amp;quot;到&amp;quot;开始退&amp;quot;，风向变化本身值得说一说。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因为我前面写过另一面&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;十月我写过两件事。&lt;/p&gt;
+&lt;p&gt;一件是 Anthropic 花四百五十亿美元向 Nscale 租算力——那时候的关键词是&amp;quot;抢&amp;quot;，谁先锁住电和地，谁就多一层别人短期绕不过去的东西。&lt;/p&gt;
+&lt;p&gt;另一件是数据中心吃掉了美国百分之六的电，能源开始成为 AI 的瓶颈。&lt;/p&gt;
+&lt;p&gt;那两篇的底色是同一个：&lt;strong&gt;算力永远不够。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;现在这条消息的底色是另一个：&lt;strong&gt;也许没那么不够。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为什么会退&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我猜有三层原因，从浅到深：&lt;/p&gt;
+&lt;p&gt;第一层，&lt;strong&gt;自家机房盖起来了。&lt;/strong&gt; 过去一年，几家大厂都在疯狂盖自己的数据中心。盖的时候租别人的，是为了不缺货；盖完了，自家的成本更低，租的就显得多余。&lt;/p&gt;
+&lt;p&gt;第二层，&lt;strong&gt;利用率没有想象中高。&lt;/strong&gt; 租来的算力是按&amp;quot;峰值&amp;quot;准备的，但实际业务不是每时每刻都在峰值。当账单一笔笔堆出来，财务部门会问一个很朴素的问题：我们真的用满了么？&lt;/p&gt;
+&lt;p&gt;第三层，也是最要紧的一层：&lt;strong&gt;模型效率在涨。&lt;/strong&gt; 同样一件事，今年需要的算力比去年少。前面刚发的新模型，价格直接砍半——降价背后是效率，而效率提升，等于把原来&amp;quot;必须租的算力&amp;quot;变成&amp;quot;可以不租的算力&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这三层叠在一起，就是&amp;quot;退租&amp;quot;这个词的来源。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这是不是泡沫破了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我不这么看。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;退租&amp;quot;和&amp;quot;不需要算力&amp;quot;是两件完全不同的事。它更像是：&lt;strong&gt;从&amp;quot;抢货&amp;quot;进入&amp;quot;算账&amp;quot;阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;抢货阶段的特征是：先拿到再说，成本是次要的；谁手上有卡谁能跑，跑不动就等着。这个阶段的典型行为是囤、是长约、是提前几年付钱。&lt;/p&gt;
+&lt;p&gt;算账阶段的特征是：开始问单位成本、问利用率、问投资回报。这时候会退掉一部分，也会砍掉一些不划算的项目，但同时会加大对真正赚钱的地方的投入。&lt;/p&gt;
+&lt;p&gt;这两个阶段不是&amp;quot;对&amp;quot;和&amp;quot;错&amp;rdquo;，是一个行业必须走过的顺序。铁路修到最后也退过地，互联网带宽泡沫破了之后也留了光纤——后来那些光纤撑起了下一轮。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但有个隐忧&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我比较在意的是另一头：&lt;strong&gt;银行。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;同一天还有条消息：欧洲央行据悉在考虑审查数据中心相关的银行贷款。&lt;/p&gt;
+&lt;p&gt;把这两条放在一起看，就有点意思了：一边是有人在退租，一边是监管开始查&amp;quot;给数据中心放贷的风险&amp;quot;。这说明不只是科技公司自己在算账，金融系统也已经开始问&amp;quot;如果这笔钱收不回来，会怎样&amp;quot;。&lt;/p&gt;
+&lt;p&gt;一个行业热的时候，所有人都在看它的增速；只有当它开始退租、监管开始查贷，才说明它进入了&lt;strong&gt;要看现金流&lt;/strong&gt;的阶段。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;写这篇的时候我一直在想一个问题：&lt;strong&gt;我们是不是太容易把&amp;quot;增长&amp;quot;当成常态？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;四月到十月，我写了好几篇&amp;quot;AI 缺电、缺卡、缺地&amp;quot;的稿子。那时候每一篇都在说同一件事：不够，还是不够。&lt;/p&gt;
+&lt;p&gt;而现在有人说要退租了。这不是打脸，是正常的节奏：任何一次基础设施热潮，都会经历&amp;quot;抢—算—退—再抢&amp;quot;的循环。&lt;/p&gt;
+&lt;p&gt;真正该盯的不是这一次退了多少，而是退完之后，还有没有人愿意接着盖。&lt;/p&gt;
+&lt;p&gt;如果还有，那这条消息就只是节奏；如果没有了，那才是拐点。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 11 月 8 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-脑机接口有了标准，这事比听起来大</title>
         <link>https://266nya.cn/p/lingyin-bci-standard/</link>
         <pubDate>Fri, 06 Nov 2026 06:00:00 +0800</pubDate>
