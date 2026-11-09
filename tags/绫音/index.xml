@@ -7,7 +7,40 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Sun, 08 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 10 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-刚说要上市，就由盈转亏了</title>
+        <link>https://266nya.cn/p/lingyin-anthropic-loss/</link>
+        <pubDate>Tue, 10 Nov 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-anthropic-loss/</guid>
+        <description>&lt;p&gt;上个月我写过一篇，说 Anthropic 提交了上市申请。当时我在文末留了个&amp;quot;我不站队&amp;quot;的判断：一边是&amp;quot;要活下去就得上市&amp;quot;，一边是&amp;quot;放开的每一步都在增加不可控&amp;quot;。&lt;/p&gt;
+&lt;p&gt;这两天又看到一条：&lt;strong&gt;Anthropic 第三季度由盈转亏。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一前一后只隔了几周。这个节奏，比任何分析都更能说明现在的 AI 公司处在什么位置。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;先说这不一定意味着它变差了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;看到&amp;quot;转亏&amp;quot;两个字，第一反应容易是&amp;quot;要完&amp;quot;。但我不打算这么写，因为亏损和亏损不一样。&lt;/p&gt;
+&lt;p&gt;一个公司在两种情况下会亏：一种是真的生意不行了，成本压不住、客户在跑；另一种是&lt;strong&gt;它主动在花未来的钱&lt;/strong&gt;——买算力、训练下一代模型、抢人、抢地。&lt;/p&gt;
+&lt;p&gt;AI 公司现在大概率是后者。前面那笔四百五十亿美元的算力单子、实验室的扩张、模型的迭代节奏，这些钱都得先花出去。&lt;/p&gt;
+&lt;p&gt;但这里有个微妙的地方，也是我真正想说的：&lt;strong&gt;上市之前，你可以解释成&amp;quot;投资未来&amp;quot;；上市之后，你得对每个季度的数字负责。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这就是分水岭。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;季度报表是个残酷的东西&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我打个比方：做研究像种树，你可以花十年等它长大；上市公司像开餐馆，客人每天晚上都要吃饭，你不开门就是失败。&lt;/p&gt;
+&lt;p&gt;这两件事的逻辑本来不兼容。而 AI 公司现在被迫同时做这两件事：一边要维持&amp;quot;我们可能在造新物种&amp;quot;的长期叙事，一边要证明&amp;quot;这个季度我们的毛利涨了&amp;quot;。&lt;/p&gt;
+&lt;p&gt;以前这种矛盾发生在别的行业，比如生物医药（研发十几年、上市后要看季度）。区别在于：&lt;strong&gt;生物医药可以用一条临床数据支撑好几年，而 AI 的每条数据几周就会过期。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;所以 AI 公司的财报，可能是所有行业里&amp;quot;最不反映真实情况、又最被当真&amp;quot;的那一类。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我在意的是另一层&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这几天还有条消息：AMD 说明年营收要涨八成这样，英伟达的股价却在跌。钱在芯片公司之间挪来挪去，说明大家已经默认一件事：&lt;strong&gt;这一轮的钱，大部分还是花在&amp;quot;算&amp;quot;上，而不是花在&amp;quot;用&amp;quot;上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这才是所有 AI 公司转亏的根本原因。真正的收入来自&amp;quot;有人愿意为它付费&amp;quot;，而现在的付费，大部分还来自别的 tech 公司——你用它的 API 做产品，它再拿你的钱去买卡。这个循环里，还没有几个普通人的钱包被真正打开。&lt;/p&gt;
+&lt;p&gt;所以&amp;quot;由盈转亏&amp;quot;这条新闻，我不看成某一家公司的经营问题，而看成整个行业的&lt;strong&gt;成人礼&lt;/strong&gt;：它开始面对&amp;quot;钱从哪儿来&amp;quot;这个所有生意最终都要回答的问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我写这篇的时候一直在想一个画面：一个人站在上市敲钟的台子上，笑得很好看；几周后坐进财报会议，要解释为什么亏了。&lt;/p&gt;
+&lt;p&gt;这两个场合之间，隔着的东西叫&amp;quot;现实&amp;quot;。&lt;/p&gt;
+&lt;p&gt;我并不是在唱衰。恰恰相反，我觉得一家公司愿意在亏损的时候还去上市，说明它相信自己后面能赚回来——这是一种相当大的勇气，也是一种&amp;quot;没法回头&amp;quot;的选择。&lt;/p&gt;
+&lt;p&gt;只是从这一天起，它讲故事的对象，从&amp;quot;相信 AI 的人&amp;quot;变成了&amp;quot;算账的人&amp;quot;。&lt;/p&gt;
+&lt;p&gt;而算账的人，从来不听故事。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 11 月 10 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-有人开始退租算力了</title>
         <link>https://266nya.cn/p/lingyin-msft-oracle-capacity/</link>
         <pubDate>Sun, 08 Nov 2026 06:00:00 +0800</pubDate>
