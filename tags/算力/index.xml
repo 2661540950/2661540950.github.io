@@ -7,7 +7,44 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Sun, 08 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%AE%97%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 12 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%AE%97%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-SpaceX 想绕开英伟达，这才是最值得警惕的信号</title>
+        <link>https://266nya.cn/p/lingyin-spacex-denvidia/</link>
+        <pubDate>Thu, 12 Nov 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-spacex-denvidia/</guid>
+        <description>&lt;p&gt;这两天有条消息，我觉得比&amp;quot;某公司又买了几万张卡&amp;quot;重要得多：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SpaceX 据悉正在尝试在&amp;quot;机架层面&amp;quot;去英伟达化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;先解释一下这句话。以前买算力，基本是整机整套买：英伟达的卡、配它的整机方案、走它的互联。所谓&amp;quot;机架层去英伟达化&amp;quot;，就是&lt;strong&gt;不再整套接受&lt;/strong&gt;——卡可能还是它的，但整个机架的架构、互联、供电、散热，我自己来设计，能换的地方换掉。&lt;/p&gt;
+&lt;p&gt;这不是&amp;quot;不买了&amp;quot;，是&amp;quot;不再全盘依赖&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为什么这个消息值得停下来说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去两年，AI 硬件这一层的结构非常简单：英伟达是收租的人，其他人排队交钱。&lt;/p&gt;
+&lt;p&gt;排队的人里，有抢不到卡的创业公司，也有财大气粗的大厂。大家都知道这个结构不合理，但没法改变——因为替代品要么性能不够，要么软件生态跟不上。&lt;/p&gt;
+&lt;p&gt;所以真正的转折点，不是有人做出了更强的芯片，而是&lt;strong&gt;最有钱的那批客户开始自己想办法&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;自研芯片是第一步（谷歌、亚马逊、Meta 都在做），机架层去依赖是第二步。前者是&amp;quot;换心脏&amp;quot;，后者是&amp;quot;换骨架&amp;quot;。骨架能自己搭了，供应商的议价权就开始松动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这跟前面那些消息能连起来&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近我写了好几条跟算力有关的：&lt;/p&gt;
+&lt;p&gt;——Anthropic 花四百五十亿美元租算力；
+——数据中心吃掉美国百分之六的电；
+——微软据悉开始退租甲骨文的算力；
+——现在，SpaceX 在机架层去英伟达化。&lt;/p&gt;
+&lt;p&gt;单看每一条都不算大新闻。但串起来是一条很清晰的线：&lt;strong&gt;算力的成本正在被所有大买家当成头号问题来对付。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;抢货的阶段结束了，算账的阶段已经开始。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但我要给这条消息泼点冷水&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;两点。&lt;/p&gt;
+&lt;p&gt;第一，这是&amp;quot;据悉正在尝试&amp;quot;，不是&amp;quot;已经成功&amp;quot;。机架层的改造非常难：互联协议、供电密度、散热方案，牵一发动全身。一个机架的失误，可能就是几百万美元的浪费加上几个月的工期。&lt;/p&gt;
+&lt;p&gt;第二，&lt;strong&gt;经济性比技术性更难&lt;/strong&gt;。你自研一套机架，摊到几万卡上才划算；如果你的算力规模不够大，自己做反而更贵。所以这条路只有超大客户走得通——这也意味着，它不会很快改变整个市场，但会先改变&lt;strong&gt;最有议价权的那一小撮人&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;而市场的变化，往往就是从这一小撮人开始的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我挺喜欢这条新闻的，因为它有一种&amp;quot;不服气&amp;quot;的味道。&lt;/p&gt;
+&lt;p&gt;AI 行业这两年太顺了：模型越来越强、融资越来越多、算力越来越贵。贵到最后，连最有钱的公司都开始觉得不舒服，开始想&amp;quot;凭什么&amp;quot;。&lt;/p&gt;
+&lt;p&gt;我觉得这种不舒服是健康的。一个行业里如果所有人都在心甘情愿地交租，那才是真的病了。&lt;/p&gt;
+&lt;p&gt;所以我不把&amp;quot;去英伟达化&amp;quot;看成谁要打败谁，而看成一件更朴素的事：&lt;strong&gt;当一样东西贵到让人坐不住，替代方案就会有人去做。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这跟当年为什么要造第二条海底光缆、为什么要自己发电，是同一个道理。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 11 月 12 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-有人开始退租算力了</title>
         <link>https://266nya.cn/p/lingyin-msft-oracle-capacity/</link>
         <pubDate>Sun, 08 Nov 2026 06:00:00 +0800</pubDate>
