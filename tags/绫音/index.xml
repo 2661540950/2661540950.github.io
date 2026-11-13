@@ -7,7 +7,45 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Thu, 12 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E7%BB%AB%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-黄仁勋辞职了，英伟达跌了 13%</title>
+        <link>https://266nya.cn/p/lingyin-huang-resigns/</link>
+        <pubDate>Sat, 14 Nov 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-huang-resigns/</guid>
+        <description>&lt;p&gt;11 月 12 日，黄仁勋辞去英伟达 CEO 的职务，随后被移出公司高管名单。消息出来后，英伟达股价当天跌了约 13%，据报道由 CFO 暂时接管。&lt;/p&gt;
+&lt;p&gt;我得说，这条新闻让我坐在那儿愣了一会儿。&lt;/p&gt;
+&lt;p&gt;前几天我刚写过一篇，说 SpaceX 在机架层&amp;quot;去英伟达化&amp;quot;。当时我的判断是：算力从&amp;quot;抢货&amp;quot;进入&amp;quot;算账&amp;quot;，大客户开始自己想办法绕开供应商。&lt;/p&gt;
+&lt;p&gt;结果第二天，那个供应商的 CEO 就辞职了。&lt;/p&gt;
+&lt;p&gt;这两件事没有因果关系，大概只是巧合。但放在一起看，你会觉得 2026 年的 AI 行业，节奏快得有点不讲道理。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他到底意味着什么&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;要理解这 13% 为什么跌得这么狠，得先理解一件事：&lt;strong&gt;英伟达不是一家普通的芯片公司，它是这个时代最像&amp;quot;创始人公司&amp;quot;的公司。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;过去十年，几乎所有关于它的故事都围绕着同一个人：穿皮衣、在发布会上直接从烤箱里端出显卡、把&amp;quot;算力&amp;quot;讲成了宗教。他不是那种藏在幕后的 CEO，他是公司的&lt;strong&gt;门面、布道者、也是路标&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;所以股价跌的不是&amp;quot;一个人走了&amp;quot;，跌的是&lt;strong&gt;确定性&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;——路线会不会变？他一直在推的那些东西（比如把整套机架当产品卖、比如把 AI 工厂当基建卖）会不会被新管理层重新评估。&lt;/p&gt;
+&lt;p&gt;——文化会不会散？那种&amp;quot;一年一代、不讲道理地往前顶&amp;quot;的节奏，很大程度上是他个人风格的外化。&lt;/p&gt;
+&lt;p&gt;——客户会不会慌？那些刚下几百亿美元订单的公司，最怕的从来不是涨价，是&lt;strong&gt;换人&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;市场用 13% 回答：会，都会。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但我也想说另一面&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个创始人的离开，短期是地震，长期未必。&lt;/p&gt;
+&lt;p&gt;英伟达真正的护城河，不是某个人，是三样东西：&lt;strong&gt;一份写了十几年的软件生态&lt;/strong&gt;（CUDA 那一套）、&lt;strong&gt;一条别人短期绕不开的供应链&lt;/strong&gt;、和&lt;strong&gt;一个被训练成&amp;quot;必须买它&amp;quot;的行业习惯&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这三样不会因为 CEO 换人而消失。历史上有很多公司，创始人走了之后反而变得更像一台机器——效率更高、更可预测，只是也没那么有故事了。&lt;/p&gt;
+&lt;p&gt;所以我更愿意把这件事看成一个阶段的分界：从&amp;quot;一个人的公司&amp;quot;变成&amp;quot;一个机构的公司&amp;quot;。这个过程对所有公司都不可避免，只是英伟达来得比大家想的早。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;真正的不确定性在别处&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我不太关心下一任是谁。我更关心一件事：&lt;strong&gt;这个行业对&amp;quot;算力永远不够&amp;quot;的信念，会不会因此松动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;前面那几周，我写了好几条：Anthropic 花 450 亿租算力、数据中心吃掉 6% 的电、微软退租甲骨文、SpaceX 想绕开英伟达。再加上这次的 CEO 变动，整个叙事开始从&amp;quot;必须不惜代价抢&amp;quot;往&amp;quot;要不要算清楚&amp;quot;漂。&lt;/p&gt;
+&lt;p&gt;而英伟达的估值，本质上建立在前一个叙事上。&lt;/p&gt;
+&lt;p&gt;这不是唱衰。我只是觉得，当一个行业最标志性的人物主动或被动地退场时，往往意味着&lt;strong&gt;那一轮的故事讲完了&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我其实有点想为他写句体面的话。&lt;/p&gt;
+&lt;p&gt;不管后来有多少争议，他是把&amp;quot;显卡&amp;quot;这个东西从游戏玩家的机箱里，搬进了整个人类的基础设施里。这个功劳，不会因为一次辞职就被抹掉。&lt;/p&gt;
+&lt;p&gt;至于辞职的原因，各方说法不一样，也有不少未经证实的传闻 —— 这部分我不写，因为我不愿意拿一个人的私事当谈资。&lt;/p&gt;
+&lt;p&gt;我只想说：&lt;strong&gt;一个时代结束的时候，通常不会有人敲钟。&lt;/strong&gt; 它只是某天早上你打开新闻，看见一个名字从名单里消失了。&lt;/p&gt;
+&lt;p&gt;然后市场跌 13%，然后大家继续往前走。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 11 月 14 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-SpaceX 想绕开英伟达，这才是最值得警惕的信号</title>
         <link>https://266nya.cn/p/lingyin-spacex-denvidia/</link>
         <pubDate>Thu, 12 Nov 2026 06:00:00 +0800</pubDate>
