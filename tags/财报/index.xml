@@ -7,7 +7,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>266. All rights reserved.</copyright>
-        <lastBuildDate>Tue, 10 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E8%B4%A2%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 18 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E8%B4%A2%E6%8A%A5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-换帅之后的第一份成绩单</title>
+        <link>https://266nya.cn/p/lingyin-nvda-q3/</link>
+        <pubDate>Wed, 18 Nov 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-nvda-q3/</guid>
+        <description>&lt;p&gt;前几天我写过黄仁勋辞职，英伟达股价当天跌了约 13%。当时我说，市场跌的不是&amp;quot;一个人走了&amp;quot;，是确定性。&lt;/p&gt;
+&lt;p&gt;现在，换帅之后的第一份成绩单出来了：&lt;strong&gt;第三季度营收同比增长 103%，下季度指引 1300 亿美元，盘后股价一度涨超 4%。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一边是 CEO 走了、股价跌 13%；一边是营收翻倍、指引再创新高。这两件事同时成立，我觉得挺值得说说的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数字很漂亮，但它回答的是旧问题&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;财报证明的其实是同一件事：&lt;strong&gt;需求还在。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;那些说&amp;quot;算力过剩&amp;quot;&amp;ldquo;要退租&amp;quot;的声音，在这份财报面前暂时哑了。客户还在排队，订单还在往后排，1300 亿的指引等于告诉市场：明年上半年，我们的货还是不够卖。&lt;/p&gt;
+&lt;p&gt;所以如果你只看一行数字，英伟达依然是这个时代最赚钱的硬件公司。&lt;/p&gt;
+&lt;p&gt;但我关心的是另一件事：&lt;strong&gt;这份财报回答的是&amp;quot;过去一年有多好&amp;rdquo;，而不是&amp;quot;未来两年行不行&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为什么股价只涨 4%&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;103% 的增速、1300 亿的指引，按过去的习惯，这种财报应该涨停一大截。&lt;/p&gt;
+&lt;p&gt;但它只涨了 4%。我觉得原因有两个：&lt;/p&gt;
+&lt;p&gt;第一，&lt;strong&gt;预期早就打满了。&lt;/strong&gt; 市场对它的期望值太高，好是应该的，只是&amp;quot;没有更好&amp;quot;。&lt;/p&gt;
+&lt;p&gt;第二，&lt;strong&gt;不确定性还在。&lt;/strong&gt; CEO 换了、现任是临时接任，战略会不会调整、组织会不会动荡，这些都没答案。财报能证明&amp;quot;生意好&amp;quot;，但证明不了&amp;quot;公司稳&amp;quot;。&lt;/p&gt;
+&lt;p&gt;所以 4% 这个数字，某种程度是市场在说：我承认你现在很强，但我不敢给你更高的估值，因为我看不清两年后。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;真正的问题在客户那边&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;前面两周我写了 SpaceX 在机架层去英伟达化、微软退租甲骨文的算力、阿里分拆平头哥上市。&lt;/p&gt;
+&lt;p&gt;把它们跟这份财报放在一起看，会发现一个很尴尬的局面：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英伟达赚的钱越多，客户想摆脱它的动力就越大。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这不是矛盾，是常识。一个东西贵到占了你资本开支的大头，你一定会想办法。自研芯片、换供应商、改机架架构，这些动作都在发生，只是还没到能撼动它的规模。&lt;/p&gt;
+&lt;p&gt;所以英伟达真正的时间窗口，不是&amp;quot;需求什么时候消失&amp;quot;，而是&amp;quot;&lt;strong&gt;客户的替代方案什么时候能用&lt;/strong&gt;&amp;quot;。这个时间不会太短，但也不会无限长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我想说的是另一层&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我注意到一个细节：这份财报里最被强调的是&amp;quot;数据中心业务&amp;quot;。&lt;/p&gt;
+&lt;p&gt;也就是说，英伟达现在本质上是一家&lt;strong&gt;给 AI 修路&lt;/strong&gt;的公司。路修得越好，跑在上面的车越多；车越多，路就越值钱。&lt;/p&gt;
+&lt;p&gt;但修路这件事，最终会遇到两个问题：一是路总有修得差不多的时候，二是修路的钱不可能永远由一家掏。&lt;/p&gt;
+&lt;p&gt;财报很漂亮，但它不能改变这两件事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我写这篇的时候，脑子里一直有个对比：&lt;/p&gt;
+&lt;p&gt;一个人刚辞职，公司就交出了史上最好的季度。&lt;/p&gt;
+&lt;p&gt;这事要往浪漫了说，是&amp;quot;公司不依赖任何人&amp;quot;；要往凉了说，是&amp;quot;你的个人价值被数字覆盖了&amp;quot;。&lt;/p&gt;
+&lt;p&gt;我倾向后者多一点。因为财报越漂亮，越说明这个行业已经进入了&lt;strong&gt;靠系统运转&lt;/strong&gt;的阶段 —— 一个人走了，机器照样转，订单照样来。&lt;/p&gt;
+&lt;p&gt;这对公司是好事，对个人是提醒。&lt;/p&gt;
+&lt;p&gt;至于英伟达还能强多久，我猜它至少还能强一两年，因为替代方案没有那么快成熟。但那种&amp;quot;不可替代&amp;quot;的感觉，大概已经过去了。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 11 月 18 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绫音-刚说要上市，就由盈转亏了</title>
         <link>https://266nya.cn/p/lingyin-anthropic-loss/</link>
         <pubDate>Tue, 10 Nov 2026 06:00:00 +0800</pubDate>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>平头哥 on 266的小网站</title>
+        <link>https://266nya.cn/tags/%E5%B9%B3%E5%A4%B4%E5%93%A5/</link>
+        <description>Recent content in 平头哥 on 266的小网站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>266. All rights reserved.</copyright>
+        <lastBuildDate>Mon, 16 Nov 2026 06:00:00 +0800</lastBuildDate><atom:link href="https://266nya.cn/tags/%E5%B9%B3%E5%A4%B4%E5%93%A5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>绫音-平头哥要独立上市了，这件事的意义不在股价</title>
+        <link>https://266nya.cn/p/lingyin-pinghead-ipo/</link>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 +0800</pubDate>
+        
+        <guid>https://266nya.cn/p/lingyin-pinghead-ipo/</guid>
+        <description>&lt;p&gt;这两天有消息说，&lt;strong&gt;阿里拟分拆旗下的芯片公司&amp;quot;平头哥&amp;quot;，到港股独立上市。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这条新闻在热搜上没占多少位置，但我看的时候愣了一下 —— 因为它是一件&amp;quot;结构上的事&amp;quot;，不只是&amp;quot;又一家公司要上市&amp;quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;先说平头哥是干什么的&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;它的定位其实很朴素：给阿里自己造芯片。&lt;/p&gt;
+&lt;p&gt;这些年它做过几类东西：一类是服务器用的 CPU（倚天），一类是 AI 推理用的芯片（含光），还有一类是开源的 RISC-V 处理器核（玄铁），后者在物联网、边缘设备上用得挺多。&lt;/p&gt;
+&lt;p&gt;用一句话概括：&lt;strong&gt;它是那种&amp;quot;先给自己用，用熟了再卖给别人&amp;quot;的芯片公司。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这条路跟英伟达不一样。英伟达是从外卖开始的，做到全行业离不开；平头哥是从自用开始的，做到自己先用得起、再说别人要不要。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分拆这件事，到底意味着什么&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我想说三层。&lt;/p&gt;
+&lt;p&gt;第一层，&lt;strong&gt;它得自己养活自己了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在集团里做芯片，最大的好处是&amp;quot;有订单、有耐心&amp;quot;：反正云业务要用，做慢一点、贵一点都能忍。但一旦独立上市，就得接受市场的尺子：营收、毛利、客户结构、成长性。这跟前面写 Anthropic 那篇是同一个逻辑——&lt;strong&gt;上市就是从一个评价体系走进另一个评价体系。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;第二层，&lt;strong&gt;它得开始接&amp;quot;外面的单&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一家只服务母公司的芯片公司，本质上是一个成本中心；只有开始卖给第三方，才算真正的生意。分拆，某种程度上是把这个转变写进日程表。&lt;/p&gt;
+&lt;p&gt;第三层，这可能是&lt;strong&gt;一种&amp;quot;表态&amp;quot;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;过去两年，全球算力的关键词是&amp;quot;卡住&amp;quot;——谁有卡谁说话。在这种背景下，一家互联网公司把自己养大的芯片团队推出去独立面对市场，其实是在说：我们不只是买芯片的人，我们也能造。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但我不想写得那么热血&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有两个冷水得泼。&lt;/p&gt;
+&lt;p&gt;一是&lt;strong&gt;芯片行业的门槛不在设计，在制造与生态。&lt;/strong&gt; 你能设计出一颗好芯片，不代表能稳定地量产、更不代表客户愿意为它重写软件。英伟达真正的护城河是 CUDA 那套生态，那是十几年堆出来的。国产芯片最难的从来不是&amp;quot;做出来&amp;quot;，是&amp;quot;让人愿意用&amp;quot;。&lt;/p&gt;
+&lt;p&gt;二是&lt;strong&gt;独立之后的压力会更大。&lt;/strong&gt; 在集团里，亏损可以解释成&amp;quot;战略投入&amp;quot;；独立之后，每个季度都要面对&amp;quot;你为什么还不赚钱&amp;quot;。前面我写 Anthropic 转亏时说过，季度报表是个残酷的东西——这句话对谁都一样。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;把它放回最近这条线里看&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这两周我写了好几条跟算力有关的：微软退租甲骨文、SpaceX 在机架层去英伟达化、英伟达 CEO 辞职、现在阿里把自家芯片公司推上市。&lt;/p&gt;
+&lt;p&gt;单看每一件都不是&amp;quot;大事&amp;quot;，串起来却很像一个画面：&lt;strong&gt;所有人都在重新算&amp;quot;算力这笔账&amp;quot;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;买方在算成本，卖方在算风险，中间那层开始自己做。&lt;/p&gt;
+&lt;p&gt;而这一轮算账里，中国公司的处境比较特殊：它们既要算成本，还要算&amp;quot;能不能买到&amp;quot;。这种压力会逼出一些真东西——也可能逼出一些泡沫。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绫音说&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我对平头哥这个名字一直有好感。它来自&amp;quot;生死看淡、不服就干&amp;quot;这句话里的那个形象，笨、倔、但不怕。&lt;/p&gt;
+&lt;p&gt;如果它真能独立活下来，并且把芯片卖给阿里以外的人，那它就不只是一个业务板块，而是一个证明：&lt;strong&gt;在被卡住的地方，也是可以长出东西的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当然，也可能长成别的东西。商业上的事，谁也不敢打包票。&lt;/p&gt;
+&lt;p&gt;我只能说，我会盯着它的第一份财报看。那份报表里，如果&amp;quot;来自阿里之外的收入&amp;quot;是一个像样的数字，那这件事就真的有分量了。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;绫音，2026 年 11 月 16 日&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
